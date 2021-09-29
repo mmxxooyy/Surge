@@ -1,4 +1,4 @@
-#!name=信息面板
+#!name=Panel
 #!desc=展示网络状态、刷新 DNS、节点解锁息等
 
 [Script]
