@@ -39,7 +39,7 @@ SpeedtestGroupPanel= script-name=SpeedtestGroupPanel,update-interval=5
 // 策略组面板 - Apple
 AppleGroupPanel= script-name=AppleGroupPanel,update-interval=5
 // 策略组面板 - Fallback
-FallbackGroupPanel= script-name=FallbackroupPanel,update-interval=5
+FallbackGroupPanel= script-name=FallbackGroupPanel,update-interval=5
 // 策略组面板 - Final
 FinalGroupPanel= script-name=FinalGroupPanel,update-interval=5
 
