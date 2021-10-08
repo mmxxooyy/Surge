@@ -1,0 +1,9 @@
+#!name=Proxy Group Control Panels
+#!desc=策略组面板
+
+[Panel]
+// 策略组面板 - 
+ProxyGroupPanel= script-name=ProxyGroupPanel,update-interval=5
+
+[Script]
+ProxyGroupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=Proxy
