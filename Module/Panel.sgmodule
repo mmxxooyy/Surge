@@ -32,6 +32,8 @@ SpotifyGroupPanel= script-name=SpotifyGroupPanel,update-interval=5
 YouTubeGroupPanel= script-name=YouTubeGroupPanel,update-interval=5
 // 策略组面板 - Netflix
 NetflixGroupPanel= script-name=NetflixGroupPanel,update-interval=5
+// 策略组面板 - Emby-Nexitally
+EmbyNexitallyGroupPanel= script-name=EmbyNexitallyGroupPanel,update-interval=5
 // 策略组面板 - PayPal
 PayPalGroupPanel= script-name=PayPalGroupPanel,update-interval=5
 // 策略组面板 - Speedtest
@@ -56,6 +58,7 @@ GlobalMediaGroupPanel = type=generic,timeout=10,script-path=https://raw.githubus
 SpotifyGroupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=Spotify
 YouTubeGroupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=YouTube
 NetflixGroupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=Netflix
+EmbyNexitallyGroupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=Emby-Nexitally
 PayPalGroupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=PayPal
 SpeedtestGroupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=Speedtest
 AppleGroupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=Apple
