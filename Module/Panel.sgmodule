@@ -26,12 +26,12 @@ ProxyGroupPanel= script-name=ProxyGroupPanel,update-interval=5
 AsianMediaGroupPanel= script-name=AsianMediaGroupPanel,update-interval=5
 // 策略组面板 - GlobalMedia
 GlobalMediaGroupPanel= script-name=GlobalMediaGroupPanel,update-interval=5
-// 策略组面板 - Spotify
-SpotifyGroupPanel= script-name=SpotifyGroupPanel,update-interval=5
-// 策略组面板 - YouTube
-YouTubeGroupPanel= script-name=YouTubeGroupPanel,update-interval=5
 // 策略组面板 - Netflix
 NetflixGroupPanel= script-name=NetflixGroupPanel,update-interval=5
+// 策略组面板 - YouTube
+YouTubeGroupPanel= script-name=YouTubeGroupPanel,update-interval=5
+// 策略组面板 - Spotify
+SpotifyGroupPanel= script-name=SpotifyGroupPanel,update-interval=5
 // 策略组面板 - Emby-Nexitally
 EmbyNexitallyGroupPanel= script-name=EmbyNexitallyGroupPanel,update-interval=5
 // 策略组面板 - PayPal
