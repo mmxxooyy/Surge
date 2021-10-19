@@ -53,7 +53,7 @@ Netflix_Check = type=generic,timeout=10,script-path=https://gist.githubuserconte
 YouTube_Check = type=generic,timeout=10,script-path=https://gist.githubusercontent.com/Hyseen/5ae36a6a5cb5690b1f2bff4aa19c766f/raw/youtube_premium_check.js,argument=availableIcon=checkmark.shield&availableIconColor=#1B813E&notAvailableIcon=xmark.shield&notAvailableIconColor=#CB1B45&errorIcon=exclamationmark.arrow.triangle.2.circlepath&errorIconColor=#77428D
 Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/smartmimi/conf/master/surge/sub_info_panel.js,script-update-interval=0
 ProxyGroupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=Proxy
-AsianMediaGroupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=AsianMedia
+AsianMediaGroupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=globe.asia.australia&color=#86abee&group=AsianMedia
 GlobalMediaGroupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=GlobalMedia
 SpotifyGroupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=Spotify
 YouTubeGroupPanel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js ,argument=icon=network&color=#86abee&group=YouTube
