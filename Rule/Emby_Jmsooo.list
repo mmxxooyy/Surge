@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,cf1.jmsooo.com
 DOMAIN-SUFFIX,us.jmsooo.com
 DOMAIN-SUFFIX,us2.jmsooo.com
 DOMAIN-SUFFIX,hkzf.908600.xyz
+IP-CIDR,213.183.53.108/32,no-resolve
