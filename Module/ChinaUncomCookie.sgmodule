@@ -1,5 +1,5 @@
 #!name=ChinaUncom
-#!desc=中国联通签到
+#!desc=中国联通获取 Cookie
 #!system=ios
 
 [MITM]
