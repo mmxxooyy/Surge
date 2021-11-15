@@ -3,7 +3,7 @@ DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,api.bilibili.com
 DOMAIN-SUFFIX,api.vc.bilibili.com
-DOMAIN-SUFFIX,pay.bilibili.com
+DOMAIN-SUFFIX,hsslb.com
 IP-CIDR,45.43.32.234/32
 IP-CIDR,119.29.29.29/32
 IP-CIDR,128.1.62.200/32
