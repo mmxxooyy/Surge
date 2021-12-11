@@ -937,20 +937,6 @@ DOMAIN-SUFFIX,jp.as.pptv.com
 DOMAIN-SUFFIX,pp2.pptv.com
 DOMAIN-SUFFIX,stat.pptv.com
 
-# QQ Live
-DOMAIN-SUFFIX,c.l.qq.com
-DOMAIN-SUFFIX,dp3.qq.com
-DOMAIN-SUFFIX,livep.l.qq.com
-DOMAIN-SUFFIX,lives.l.qq.com
-DOMAIN-SUFFIX,livew.l.qq.com
-DOMAIN-SUFFIX,mcgi.v.qq.com
-DOMAIN-SUFFIX,mdevstat.qqlive.qq.com
-DOMAIN-SUFFIX,omgmta1.qq.com
-DOMAIN-SUFFIX,p.l.qq.com
-DOMAIN-SUFFIX,rcgi.video.qq.com
-DOMAIN-SUFFIX,t.l.qq.com
-DOMAIN-SUFFIX,u.l.qq.com
-
 # Youku & Tudou
 DOMAIN-SUFFIX,a-dxk.play.api.3g.youku.com
 DOMAIN-SUFFIX,actives.youku.com
