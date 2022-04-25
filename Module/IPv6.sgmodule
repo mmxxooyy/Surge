@@ -1,0 +1,6 @@
+#!name=IPv6
+#!desc=开启 ipv6
+#!system=ios
+
+[General]
+ipv6 = true
