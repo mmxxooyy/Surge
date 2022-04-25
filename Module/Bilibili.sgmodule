@@ -1,6 +1,5 @@
 #!name=Bilibili
 #!desc=Bilibili 去广告、自动切换地区
-#!system=ios
 
 [Rule]
 DOMAIN-SUFFIX,cm.bilibili.com,REJECT
