@@ -317,8 +317,8 @@ function nobyda() {
 					group_name: group,
 					policy: policy
 				}, (b) => {
-					console.log('select policy result',b)
-					resolve(!b.error || 0)
+					console.log('select policy result:',b)
+					resolve(0)
 				})
 			})
 		}
