@@ -1,0 +1,5 @@
+#!name=MITM TCP
+#!desc=解密 TCP 流量
+
+[MITM]
+tcp-connection = true
