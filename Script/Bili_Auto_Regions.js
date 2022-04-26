@@ -316,7 +316,10 @@ function nobyda() {
 				$httpAPI("POST", "v1/policy_groups/select", {
 					group_name: group,
 					policy: policy
-				}, (b) => resolve(!b.error || 0))
+				}, (b) => {
+					console.log('select policy result',b)
+					resolve(!b.error || 0)
+				})
 			})
 		}
 		if (isLoon && typeof($config.getPolicy) !== 'undefined') {
