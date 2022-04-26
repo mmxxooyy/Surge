@@ -26,9 +26,9 @@ URL-REGEX, ^https://app\.bilibili\.com/x/v2/splash/list, REJECT
 
 [Script]
 # 自动切换地区
-Bilibili Region = type=http-response,pattern=^https:\/\/ap(p|i)\.bili(bili|api)\.(com|net)\/(pgc\/view\/v\d\/app\/season|x\/v\d\/search\/defaultwords)\?access_key,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js
+Bilibili Region = type=http-response,pattern=^https:\/\/ap(p|i)\.bili(bili|api)\.(com|net)\/(pgc\/view\/v\d\/app\/season|x\/v\d\/search\/defaultwords)\?access_key,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/mmxxooyy/Surge/main/Script/Bili_Auto_Regions.js
 # 适用于搜索指定地区的番剧
-Bilibili Search = type=http-request,pattern=^https:\/\/ap(p|i)\.bili(bili|api)\.(com|net)\/x\/v\d\/search(\/type)?\?.+?%20(%E6%B8%AF|%E5%8F%B0|%E4%B8%AD)&,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js
+Bilibili Search = type=http-request,pattern=^https:\/\/ap(p|i)\.bili(bili|api)\.(com|net)\/x\/v\d\/search(\/type)?\?.+?%20(%E6%B8%AF|%E5%8F%B0|%E4%B8%AD)&,script-path=https://raw.githubusercontent.com/mmxxooyy/Surge/main/Script/Bili_Auto_Regions.js
 
 # 整体栏的布局修改(包括“首页”右上角、底部 Tab 等)
 Bilibili Tab = type=http-response,pattern=^https://app\.bilibili\.com/x/resource/show/tab(/v2)?\?access_key,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/mmxxooyy/Surge/main/Script/bilibili_tab.js
