@@ -320,7 +320,7 @@ function nobyda() {
 	const process_options = (options) => {
 		if (isHTTP) {
 			if (isSurge){
-				console.log('process options before',JSON.stringify(options))
+				console.log('process options before:' + JSON.stringify(options))
 				const api = httpapi()
 				options.headers = options.headers || {}
 				options.headers['X-Surge-Skip-Scripting'] = false
@@ -328,7 +328,7 @@ function nobyda() {
 				if(!options.url.startsWith('http') && api.addr){
 					options.url = 'https://' + api.addr + options.url
 				}
-				console.log('process options after',JSON.stringify(options))
+				console.log('process options after:' + JSON.stringify(options))
 			}
 		}
 		return options
@@ -337,11 +337,9 @@ function nobyda() {
 		if (isSurge) {
 			return new Promise((resolve) => {
 				const opt = { url: '/v1/policy_groups/select?group_name=' + encodeURIComponent(groupName) };
-				console.log('getPolicy options',JSON.stringify(opt))
-				console.log(JSON.stringify(opt),'getPolicy options')
-				console.log('a','b')
+				console.log('getPolicy options:' + JSON.stringify(opt))
 				get(opt, function(error, response, data) {
-					console.log('getPolicy result',JSON.stringify(data))
+					console.log('getPolicy result:' + JSON.stringify(data))
 					resolve(data.policy || 2)
 				})
 			})
@@ -374,9 +372,9 @@ function nobyda() {
 						policy: policy
 					}
 				  };
-				console.log('setPolicy options',JSON.stringify(opt))
+				console.log('setPolicy options:' + JSON.stringify(opt))
 				post(opt, function(error, response, data) {
-					console.log('setPolicy result',JSON.stringify(data))
+					console.log('setPolicy result:' + JSON.stringify(data))
 					resolve(!data.error || 0)
 				})
 			})
