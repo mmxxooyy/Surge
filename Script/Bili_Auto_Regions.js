@@ -334,12 +334,7 @@ function nobyda() {
 	const getPolicy = (groupName) => {
 		if (isSurge) {
 			return new Promise((resolve) => {
-				const opt = {
-					url: '/v1/policy_groups/select',
-					body:{
-					  group_name: encodeURIComponent(groupName)
-					}
-				  };
+				const opt = { url: '/v1/policy_groups/select?group_name=' + encodeURIComponent(groupName) };
 				get(opt, function(error, response, data) {
 					console.log('getPolicy',data)
 					resolve(data.policy || 2)
