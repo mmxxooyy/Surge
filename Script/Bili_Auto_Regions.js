@@ -320,6 +320,7 @@ function nobyda() {
 	const process_options = (options) => {
 		if (isHTTP) {
 			if (isSurge){
+				console.log('process options before',JSON.stringify(options))
 				const api = httpapi()
 				options.headers = options.headers || {}
 				options.headers['X-Surge-Skip-Scripting'] = false
@@ -327,6 +328,7 @@ function nobyda() {
 				if(!options.url.startsWith('http') && api.addr){
 					options.url = 'https://' + api.addr + options.url
 				}
+				console.log('process options after',JSON.stringify(options))
 			}
 		}
 		return options
