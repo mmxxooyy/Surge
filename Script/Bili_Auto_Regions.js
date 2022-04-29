@@ -320,9 +320,7 @@ function nobyda() {
 					group_name: group,
 					policy: policy
 				}, (b) => {
-					console.log('setPolicy:' + JSON.stringify(b))
 					if(!b) b = {}
-					console.log(!b.error)
 					resolve(!b.error || 0)
 				})
 			})
