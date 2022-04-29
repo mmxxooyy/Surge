@@ -338,6 +338,8 @@ function nobyda() {
 			return new Promise((resolve) => {
 				const opt = { url: '/v1/policy_groups/select?group_name=' + encodeURIComponent(groupName) };
 				console.log('getPolicy options',JSON.stringify(opt))
+				console.log(JSON.stringify(opt),'getPolicy options')
+				console.log('a','b')
 				get(opt, function(error, response, data) {
 					console.log('getPolicy result',JSON.stringify(data))
 					resolve(data.policy || 2)
