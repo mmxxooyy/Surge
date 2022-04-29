@@ -292,7 +292,7 @@ function nobyda() {
 				}, (b) => {
 					console.log('getPolicy:' + JSON.stringify(b))
 				 	resolve(b.policy || 2)
-				}
+				})
 			})
 		}
 		if (isLoon) {
@@ -325,7 +325,7 @@ function nobyda() {
 					if(b === undefined) b = {}
 					console.log(!b.error)
 					resolve(!b.error || 0)
-				}
+				})
 			})
 		}
 		if (isLoon && typeof($config.getPolicy) !== 'undefined') {
