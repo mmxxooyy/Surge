@@ -291,7 +291,7 @@ function nobyda() {
 					group_name: encodeURIComponent(groupName)
 				}, (b) => {
 					console.log('getPolicy:' + JSON.stringify(b))
-				 	resolve(b.policy || 2))
+				 	resolve(b.policy || 2)
 				}
 			})
 		}
@@ -324,7 +324,7 @@ function nobyda() {
 					console.log( b === undefined)
 					if(b === undefined) b = {}
 					console.log(!b.error)
-					resolve(!b.error || 0))
+					resolve(!b.error || 0)
 				}
 			})
 		}
