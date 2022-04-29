@@ -289,7 +289,10 @@ function nobyda() {
 			return new Promise((resolve) => {
 				$httpAPI("GET", "v1/policy_groups/select", {
 					group_name: encodeURIComponent(groupName)
-				}, (b) => resolve(b.policy || 2))
+				}, (b) => {
+					console.log('getPolicy:' + JSON.stringify(b))
+				 	resolve(b.policy || 2))
+				}
 			})
 		}
 		if (isLoon) {
@@ -316,7 +319,10 @@ function nobyda() {
 				$httpAPI("POST", "v1/policy_groups/select", {
 					group_name: group,
 					policy: policy
-				}, (b) => resolve(!b || !b.error || 0))
+				}, (b) => {
+					console.log('setPolicy:' + JSON.stringify(b))
+					resolve(!b || !b.error || 0))
+				}
 			})
 		}
 		if (isLoon && typeof($config.getPolicy) !== 'undefined') {
