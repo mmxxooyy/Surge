@@ -321,7 +321,10 @@ function nobyda() {
 					policy: policy
 				}, (b) => {
 					console.log('setPolicy:' + JSON.stringify(b))
-					resolve(!b || !b.error || 0))
+					console.log( b === undefined)
+					if(b === undefined) b = {}
+					console.log(!b.error)
+					resolve(!b.error || 0))
 				}
 			})
 		}
