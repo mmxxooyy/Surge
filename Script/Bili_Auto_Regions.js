@@ -335,9 +335,9 @@ function nobyda() {
 		if (isSurge) {
 			return new Promise((resolve) => {
 				const opt = { url: '/v1/policy_groups/select?group_name=' + encodeURIComponent(groupName) };
-				console.log('getPolicy options',opt)
+				console.log('getPolicy options',JSON.stringify(opt))
 				get(opt, function(error, response, data) {
-					console.log('getPolicy result',data)
+					console.log('getPolicy result',JSON.stringify(data))
 					resolve(data.policy || 2)
 				})
 			})
@@ -370,9 +370,9 @@ function nobyda() {
 						policy: policy
 					}
 				  };
-				console.log('setPolicy options',opt)
+				console.log('setPolicy options',JSON.stringify(opt))
 				post(opt, function(error, response, data) {
-					console.log('setPolicy result',data)
+					console.log('setPolicy result',JSON.stringify(data))
 					resolve(!data.error || 0)
 				})
 			})
