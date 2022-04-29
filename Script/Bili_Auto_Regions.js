@@ -333,7 +333,6 @@ function nobyda() {
 	}
 	const getPolicy = (groupName) => {
 		if (isSurge) {
-			if (typeof($httpAPI) === 'undefined') return 3;
 			return new Promise((resolve) => {
 				const opt = {
 					url: '/v1/policy_groups/select',
@@ -366,7 +365,7 @@ function nobyda() {
 		}
 	}
 	const setPolicy = (group, policy) => {
-		if (isSurge && typeof($httpAPI) !== 'undefined') {
+		if (isSurge) {
 			return new Promise((resolve) => {
 				const opt = {
 					url: '/v1/policy_groups/select',
