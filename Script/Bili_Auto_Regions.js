@@ -274,40 +274,6 @@ function nobyda() {
 		if (isQuanX) return $prefs.valueForKey(key);
 		if (isHTTP) return $persistentStore.read(key);
 	}
-	const getdata = (key) => {
-		let val = read(key)
-		// 如果以 @
-		if (/^@/.test(key)) {
-		  const [, objkey, paths] = /^@(.*?)\.(.*?)$/.exec(key)
-		  const objval = objkey ? read(objkey) : ''
-		  if (objval) {
-			try {
-			  const objedval = JSON.parse(objval)
-			  val = objedval ? lodash_get(objedval, paths, '') : val
-			} catch (e) {
-			  val = ''
-			}
-		  }
-		}
-		return val
-	 }
-	const lodash_get = (source, path, defaultValue = undefined) => {
-		const paths = path.replace(/\[(\d+)\]/g, '.$1').split('.')
-		let result = source
-		for (const p of paths) {
-		  result = Object(result)[p]
-		  if (result === undefined) {
-			return defaultValue
-		  }
-		}
-		return result
-	  }
-	const httpapi = () => {
-		let result = getdata('@chavy_boxjs_userCfgs.httpapi')
-	  	result = result ? result.replace(/\n/g, '').trim() : result
-	  	const [key, addr] = result.split('@')
-	  	return {key:key,addr:addr}
-	}
 	const adapterStatus = (response) => {
 		if (!response) return null;
 		if (response.status) {
@@ -317,29 +283,13 @@ function nobyda() {
 		}
 		return response;
 	}
-	const process_options = (options) => {
-		if (isHTTP) {
-			if (isSurge){
-				const api = httpapi()
-				options.headers = options.headers || {}
-				options.headers['X-Surge-Skip-Scripting'] = false
-				if(api.key)	options.headers['x-key'] = api.key
-				if(!options.url.startsWith('http') && api.addr){
-					options.url = 'https://' + api.addr + options.url
-				}
-			}
-		}
-		return options
-	}
 	const getPolicy = (groupName) => {
 		if (isSurge) {
+			if (typeof($httpAPI) === 'undefined') return 3;
 			return new Promise((resolve) => {
-				const opt = { url: '/v1/policy_groups/select?group_name=' + encodeURIComponent(groupName) };
-				console.log('getPolicy options:' + JSON.stringify(opt))
-				get(opt, function(error, response, data) {
-					console.log('getPolicy result:' + JSON.stringify(data))
-					resolve(data.policy || 2)
-				})
+				$httpAPI("GET", "v1/policy_groups/select", {
+					group_name: encodeURIComponent(groupName)
+				}, (b) => resolve(b.policy || 2))
 			})
 		}
 		if (isLoon) {
@@ -361,20 +311,12 @@ function nobyda() {
 		}
 	}
 	const setPolicy = (group, policy) => {
-		if (isSurge) {
+		if (isSurge && typeof($httpAPI) !== 'undefined') {
 			return new Promise((resolve) => {
-				const opt = {
-					url: '/v1/policy_groups/select',
-					body:{
-						group_name: group,
-						policy: policy
-					}
-				  };
-				console.log('setPolicy options:' + JSON.stringify(opt))
-				post(opt, function(error, response, data) {
-					console.log('setPolicy result:' + JSON.stringify(data))
-					resolve(!data.error || 0)
-				})
+				$httpAPI("POST", "v1/policy_groups/select", {
+					group_name: group,
+					policy: policy
+				}, (b) => resolve(!b || !b.error || 0))
 			})
 		}
 		if (isLoon && typeof($config.getPolicy) !== 'undefined') {
@@ -400,31 +342,12 @@ function nobyda() {
 			}, reason => callback(reason.error, null, null))
 		}
 		if (isHTTP) {
-			let opts = process_options(options)
-			$httpClient.get(opts, (error, response, body) => {
+			if (isSurge) options.headers['X-Surge-Skip-Scripting'] = false;
+			$httpClient.get(options, (error, response, body) => {
 				callback(error, adapterStatus(response), body)
 			})
 		}
 	}
-  const post = (options, callback) => {
-      // 如果指定了请求体, 但没指定`Content-Type`, 则自动生成
-      if (options.body && options.headers && !options.headers['Content-Type']) {
-        options.headers['Content-Type'] = 'application/x-www-form-urlencoded'
-      }
-      if (options.headers) delete options.headers['Content-Length']
-    	if (isQuanX) {
-        options["method"] = "POST";
-        $task.fetch(options).then(response => {
-          callback(null, adapterStatus(response), response.body)
-        }, reason => callback(reason.error, null, null))
-      }
-      if (isHTTP) {
-        let opts = process_options(options)
-        $httpClient.post(opts, (error, response, body) => {
-          callback(error, adapterStatus(response), body)
-        })
-      }
-    }
 	return {
 		getPolicy,
 		setPolicy,
@@ -434,7 +357,6 @@ function nobyda() {
 		notify,
 		read,
 		ssid,
-		get,
-		post
+		get
 	}
 }
