@@ -24,18 +24,25 @@ body['data']['tab'] = [
         pos: 3
     },
     {
+        id: 734,
+        name: "动画",
+        uri: "bilibili:\/\/following\/home_activity_tab\/6544",
+        tab_id: "bangumi",       
+        pos: 4
+    },
+    {
         id: 42,
         name: '追番',
         uri: 'bilibili://pgc/home',
         tab_id: 'bangumi',
-        pos: 4
+        pos: 5
     },
     {
         id: 151,
         name: '影视',
         uri: 'bilibili://pgc/cinema-tab',
         tab_id: 'film',
-        pos: 5
+        pos: 6
     },
 ]
 // 首页右上角的 tab 栏（删除了游戏中心栏目）
