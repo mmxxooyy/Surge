@@ -24,13 +24,6 @@ body['data']['tab'] = [
         pos: 3
     },
     {
-        id: 734,
-        name: "动画",
-        uri: "bilibili:\/\/following\/home_activity_tab\/6544",
-        tab_id: "bangumi",       
-        pos: 4
-    },
-    {
         id: 42,
         name: '追番',
         uri: 'bilibili://pgc/home',
