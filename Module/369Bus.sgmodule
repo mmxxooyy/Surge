@@ -1,6 +1,5 @@
 #!name=369Bus
-#!desc=369出行去广告
-#!system=ios
+#!desc=369 出行去广告
 
 [Script]
 # 去开屏广告
