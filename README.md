@@ -56,6 +56,9 @@ Surge Conf
  - Emby Premiere
  
  https://raw.githubusercontent.com/rartv/SurgeScript/main/EmbyPremiere/EmbyPremiere.sgmodule
+ - TickTick
+ 
+ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/TickTick.sgmodule
 
 ### BlockAd
  - blackmatrix7 Advertising Lite
