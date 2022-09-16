@@ -34,9 +34,11 @@ Surge Conf
  - iRingo - Weather
  
  https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Weather.sgmodule
+ 
  - iRingo - Location
  
  https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Location.sgmodule
+ 
  - Dualsub
  
  https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Dualsub.sgmodule
@@ -44,18 +46,23 @@ Surge Conf
  - TestFlight Account
  
  https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightAccount.sgmodule
- - TestFlight Download
  
- https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightDownload.sgmodule
+ ~- TestFlight Download~
+ 
+ ~https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightDownload.sgmodule~
+ 
  - Bilibili Auto Regions、Custom Tab、Custom Index、Custom My
  
  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili.sgmodule
+ 
  - JD Price
 
  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/JD_Price.sgmodule
+ 
  - Emby Premiere
  
  https://raw.githubusercontent.com/rartv/SurgeScript/main/EmbyPremiere/EmbyPremiere.sgmodule
+ 
  - TickTick
  
  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/TickTick.sgmodule
@@ -64,15 +71,19 @@ Surge Conf
  - blackmatrix7 Advertising Lite
  
  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
+ 
  - Weibo Remove Ad
  
  https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/weibo/weibo.sgmodule
+ 
  - SMZDM Remove Ad
  
  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule
+ 
  - Tieba Remove Ad
  
  https://github.com/app2smile/rules/raw/master/module/tieba.sgmodule
+ 
  - 369 Remove Splash Ad
  
  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/369Bus.sgmodule
