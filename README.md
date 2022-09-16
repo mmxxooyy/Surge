@@ -31,13 +31,18 @@ Surge Conf
 ### Panel
  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel.sgmodule
 ### App
- - iRingo - Weather
+ - iRingo - Siri & Search
  
- https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Weather.sgmodule
+ https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Siri.sgmodule
  
  - iRingo - Location
  
  https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Location.sgmodule
+ 
+
+ ~- iRingo - Weather~
+ 
+ ~https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Weather.sgmodule~
  
  - Dualsub
  
