@@ -118,6 +118,8 @@ Surge Conf
  
  https://raw.githubusercontent.com/app2smile/rules/master/module/zhihu.sgmodule
  
+ https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/zhihu/zhihu.sgmodule
+ 
  - Weibo
  
  https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/weibo/weibo.sgmodule
