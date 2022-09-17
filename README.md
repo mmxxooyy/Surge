@@ -89,6 +89,8 @@ Surge Conf
  
  ✅ https://raw.githubusercontent.com/rartv/SurgeScript/main/EmbyPremiere/EmbyPremiere.sgmodule
  
+ https://raw.githubusercontent.com/chavyleung/scripts/master/emby/emby.sgmodule
+ 
  - TickTick
  
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/TickTick.sgmodule
