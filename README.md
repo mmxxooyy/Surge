@@ -104,6 +104,8 @@ Surge Conf
  
  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.sgmodule
  
+ https://raw.githubusercontent.com/app2smile/rules/master/module/zhihu.sgmodule
+ 
  - Weibo
  
  https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/weibo/weibo.sgmodule
