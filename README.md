@@ -44,6 +44,10 @@ Surge Conf
  
  ✅ https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Q-Search.sgmodule
  
+ - Github Private Repo
+
+ https://raw.githubusercontent.com/Peng-YM/QuanX/master/Rewrites/GithubPrivate/github-private-repo.sgmodule
+ 
  - Auto Policy
  
  https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.sgmodule
