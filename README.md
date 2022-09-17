@@ -48,11 +48,11 @@ Surge Conf
  
  https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Dualsub.sgmodule
 
- - TestFlight Account
+ - TestFlight Account (include TestFlight Download)
  
  ✅ https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightAccount.sgmodule
  
- - TestFlight Download~
+ - TestFlight Download
  
  https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightDownload.sgmodule
  
