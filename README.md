@@ -64,6 +64,8 @@ Surge Conf
  - Dualsub
  
  https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Dualsub.sgmodule
+ 
+ https://raw.githubusercontent.com/DualSubs/DualSubs/main/sgmodule/DualSubs.sgmodule
 
  - TestFlight Account (include TestFlight Download)
  
