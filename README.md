@@ -91,6 +91,10 @@ Surge Conf
  
  ✅ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
  
+ - Bilibili
+
+ https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.sgmodule
+ 
  - ZhiHu
  
  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.sgmodule
