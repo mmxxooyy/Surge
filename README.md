@@ -148,6 +148,8 @@ Surge Conf
  
  https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Weibo/Moore/Weibo.sgmodule
  
+ https://raw.githubusercontent.com/zmqcherish/proxy-script/main/weibo.sgmodule
+ 
  - SMZDM
  
  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule
