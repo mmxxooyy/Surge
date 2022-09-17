@@ -76,6 +76,7 @@ Surge Conf
  - JD Price
 
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/JD_Price.sgmodule
+ 
  https://raw.githubusercontent.com/zwf234/rules/master/Surge/price.sgmodule
  
  - Emby Premiere
@@ -102,6 +103,8 @@ Surge Conf
  - Weibo
  
  https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/weibo/weibo.sgmodule
+ 
+ https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Weibo/Moore/Weibo.sgmodule
  
  - SMZDM
  
