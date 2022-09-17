@@ -5,7 +5,7 @@ Surge Conf
 ### General
  - Hide VPN
  
- ✅ https://github.com/Tartarus2014/Surge-Script/raw/master/Hide_VPNsgmodule
+ ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/HideVPN.sgmodule
  - Enable ipv6
  
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/IPv6.sgmodule
@@ -81,18 +81,18 @@ Surge Conf
  
  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.sgmodule
  
- - Weibo Remove Ad
+ - Weibo
  
  https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/weibo/weibo.sgmodule
  
- - SMZDM Remove Ad
+ - SMZDM
  
  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule
  
- - Tieba Remove Ad
+ - Tieba
  
  https://github.com/app2smile/rules/raw/master/module/tieba.sgmodule
  
- - 369 Remove Splash Ad
+ - 369
  
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/369Bus.sgmodule
