@@ -95,11 +95,13 @@ Surge Conf
  
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili.sgmodule
  
- - JD Price
+ - JD/Taobao Price
 
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/JD_Price.sgmodule
  
  https://raw.githubusercontent.com/zwf234/rules/master/Surge/price.sgmodule
+ 
+ https://raw.githubusercontent.com/HotKids/Rules/master/Surge/Module/Price.sgmodule
  
  - Emby Premiere
  
