@@ -114,6 +114,10 @@ Surge Conf
  
  ✅ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
  
+ - App AdBlock
+ 
+ https://github.com/zqzess/rule_for_quantumultX/blob/master/Surge/Module/AdBlock.sgmodule
+ 
  - Block App Upgrade
 
  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/Upgrade/Upgrade.sgmodule
