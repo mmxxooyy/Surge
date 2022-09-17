@@ -71,6 +71,8 @@ Surge Conf
  
  ✅ https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightAccount.sgmodule
  
+ https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/TestFlight.sgmodule
+ 
  - TestFlight Download
  
  https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightDownload.sgmodule
