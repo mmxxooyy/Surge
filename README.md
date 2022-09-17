@@ -108,6 +108,8 @@ Surge Conf
 
  https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.sgmodule
  
+ https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/bilibili/bilibili_big.sgmodule
+ 
  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.sgmodule
  
  - ZhiHu
