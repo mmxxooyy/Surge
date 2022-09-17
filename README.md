@@ -77,6 +77,10 @@ Surge Conf
  
  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
  
+ - ZhiHu
+ 
+ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.sgmodule
+ 
  - Weibo Remove Ad
  
  https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/weibo/weibo.sgmodule
