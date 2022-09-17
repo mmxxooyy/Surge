@@ -98,6 +98,10 @@ Surge Conf
  
  ✅ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
  
+ - Block App Upgrade
+
+ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/Upgrade/Upgrade.sgmodule
+ 
  - Bilibili
 
  https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.sgmodule
