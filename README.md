@@ -6,30 +6,43 @@ Surge Conf
  - Hide VPN
  
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/HideVPN.sgmodule
+ 
  - Enable ipv6
  
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/IPv6.sgmodule
+ 
  - DNS for Router and Companys
  
  ✅ https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/DNS.sgmodule
+ 
  - Tun Only
  
  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/TunOnly.sgmodule
+ 
+ - Skip Proxy
+ 
+ https://raw.githubusercontent.com/zwf234/rules/master/Surge/price.sgmodule
+ 
 ### Enhance
  - SubStore
  
  ✅ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule
+ 
  - BoxJS
 
  ✅ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule
+ 
  - Q-search
  
  ✅ https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Q-Search.sgmodule
+ 
  - Auto Policy
  
  https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.sgmodule
+ 
 ### Panel
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel.sgmodule
+ 
 ### App
  - iRingo - Siri & Search
  
