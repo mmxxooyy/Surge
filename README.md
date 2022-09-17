@@ -120,6 +120,10 @@ Surge Conf
  
  https://github.com/zqzess/rule_for_quantumultX/blob/master/Surge/Module/AdBlock.sgmodule
  
+ - Special UserAgent
+
+ https://raw.githubusercontent.com/xOS/Config/Her/Module/iOS/SpecialUserAgent.sgmodule
+ 
  - Block App Upgrade
 
  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/Upgrade/Upgrade.sgmodule
