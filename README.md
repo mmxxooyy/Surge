@@ -40,6 +40,10 @@ Surge Conf
  
  https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.sgmodule
  
+ - SMS Forward
+ 
+ https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.sgmodule
+ 
 ### Panel
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel.sgmodule
  
