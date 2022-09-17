@@ -112,7 +112,7 @@ Surge Conf
  
  - Tieba
  
- https://github.com/app2smile/rules/raw/master/module/tieba.sgmodule
+ https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.sgmodule
  
  - 369
  
