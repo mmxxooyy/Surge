@@ -42,7 +42,9 @@ Surge Conf
  
  - Q-search
  
- ✅ https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Q-Search.sgmodule
+ ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Q-Search.sgmodule
+ 
+ https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Q-Search.sgmodule
  
  https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Surge/Module/Qsearch.sgmodule
  
