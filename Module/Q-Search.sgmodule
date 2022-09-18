@@ -37,8 +37,8 @@
 
 #>>>>>>>>>>>>>>>>>>>>>>>翻译
 # yd xxx (有道词典)
-^https:\/\/duckduckgo.com\/\?q=yd\+([^&]+).+ https://dict.youdao.com/search?q=$1 302
-^https:\/\/duckduckgo.com\/\?q=([^+]+)\+yd.+ https://dict.youdao.com/search?q=$1 302
+^https:\/\/duckduckgo.com\/\?q=yd\+([^&]+).+ http://dict.youdao.com/search?q=$1 302
+^https:\/\/duckduckgo.com\/\?q=([^+]+)\+yd.+ http://dict.youdao.com/search?q=$1 302
 # trc xxx (Google 译至中)
 ^https:\/\/duckduckgo.com\/\?q=trc\+([^&]+).+ https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=$1 302
 ^https:\/\/duckduckgo.com\/\?q=([^+]+)\+trc.+ https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=$1 302
