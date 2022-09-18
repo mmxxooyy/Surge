@@ -7,10 +7,6 @@
 # - 原版：https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Q-Search.sgmodule
 # - 参考：https://github.com/ddgksf2013/Cuttlefish/raw/master/Rewrite/Function/Q-Search.conf
 # - 参考：https://raw.githubusercontent.com/Coldvvater/Loon/master/Plugin/Q-Search.plugin
-# 特别鸣谢：
-# @Neurogram-R https://github.com/Neurogram-R
-# @ddgksf2013 https://github.com/ddgksf2013
-# @Coldvvater https://github.com/Coldvvater
 ##################################################################################################
 
 [URL Rewrite]
