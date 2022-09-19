@@ -72,11 +72,6 @@ Surge Conf
  
  ✅ https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Location.sgmodule
  
-
- - iRingo - Weather
- 
- https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Weather.sgmodule
- 
  - Dualsub
  
  https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Dualsub.sgmodule
