@@ -31,6 +31,8 @@ Surge Conf
  
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/SkipProxy.module
  
+ https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/General.sgmodule
+ 
  https://raw.githubusercontent.com/mieqq/mieqq/master/skip-proxy-lists.sgmodule
  
 ### Enhance
