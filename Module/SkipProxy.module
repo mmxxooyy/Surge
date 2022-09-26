@@ -2,9 +2,9 @@
 #!desc=跳过部分应用的代理检测
 
 ## www.abchina.com.cn: 中国农业银行
-## creditcardapp.bankcomm.com: 交通银行
+## *bankcomm.com: 交通银行
 ## yunbusiness.ccb.com：建行生活
 ## wxh.wo.cn：沃小号
 
 [General]
-skip-proxy = %APPEND% www.abchina.com.cn, creditcardapp.bankcomm.com, yunbusiness.ccb.com, wxh.wo.cn
+skip-proxy = %APPEND% www.abchina.com.cn, *bankcomm.com, yunbusiness.ccb.com, wxh.wo.cn
