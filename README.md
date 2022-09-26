@@ -29,7 +29,9 @@ Surge Conf
  
  - Skip Proxy
  
- https://raw.githubusercontent.com/zwf234/rules/master/Surge/price.sgmodule
+ ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/SkipProxy.module
+ 
+ https://raw.githubusercontent.com/mieqq/mieqq/master/skip-proxy-lists.sgmodule
  
 ### Enhance
  - SubStore
