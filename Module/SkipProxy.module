@@ -1,0 +1,9 @@
+#!name=Skip Proxy
+#!desc=跳过部分应用的代理检测
+
+## www.abchina.com.cn: 中国农业银行
+## yunbusiness.ccb.com：建行生活
+## wxh.wo.cn：沃小号
+
+[General]
+skip-proxy = %APPEND% www.abchina.com.cn,yunbusiness.ccb.com,wxh.wo.cn
