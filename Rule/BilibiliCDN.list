@@ -1,0 +1,7 @@
+# NAME: Bilibili CDN
+# MCDN
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
+# PCDN
+DOMAIN-SUFFIX,szbdyd.com
+# AliDNS
+IP-CIDR,203.107.1.1/24
