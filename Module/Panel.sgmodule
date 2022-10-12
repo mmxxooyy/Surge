@@ -9,7 +9,7 @@ SurgePro_ReloadProfile = script-name=SurgePro_ReloadProfile,update-interval=1
 NetInfoPanel=title="",content="",style=info,script-name=net-info-panel.js,update-interval=1
 
 // 刷新 DNS
-FlushDNS = script-name=FlushDNS, icon=arrow.clockwise, update-interval=600
+FlushDNS = script-name=FlushDNS, icon=arrow.clockwise, update-interval=300
 
 // 流媒体解锁检测
 Stream_Check = script-name=Stream_Check, title="流媒体解锁检测", content="请刷新", update-interval=600
