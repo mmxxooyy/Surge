@@ -4,11 +4,10 @@
 [General]
 # 中国农业银行: www.abchina.com.cn
 # 建行生活: yunbusiness.ccb.com
-# 国家电网: sgcc.com.cn
 # 沃小号: wxh.wo.cn
 # AdGuard 本地拦截劫持: injections.adguard.org
 # AdGuard 本地资源加载: local.adguard.org
 # Apple Web Authentication Modern 跨设备验证 本地连接: cable.auth.com
 # 盯盯拍 (DDPai) 行车记录仪: 193.168.0.1/32
 # Unifi Network Direct Connection: *.id.ui.direct
-skip-proxy = %APPEND% www.abchina.com.cn, yunbusiness.ccb.com, *.sgcc.com.cn, wxh.wo.cn, injections.adguard.org, local.adguard.org, cable.auth.com, *.id.ui.direct, 193.168.0.1/32
+skip-proxy = %APPEND% www.abchina.com.cn, yunbusiness.ccb.com, wxh.wo.cn, injections.adguard.org, local.adguard.org, cable.auth.com, *.id.ui.direct, 193.168.0.1/32
