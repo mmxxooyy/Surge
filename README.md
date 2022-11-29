@@ -8,6 +8,11 @@ Surge Conf
 ### Understanding - https://manual.nssurge.com/book/understanding-surge/cn/
 ### Help - https://nssurge.zendesk.com/
 ### Community - https://community.nssurge.com
+### DivineEngine - https://divineengine.net/more/special/surge
+
+## Sample
+### BlueGrave - https://github.com/BlueGrave/Surge/blob/master/General.conf
+### GetSomeCats - https://github.com/getsomecat/GetSomeCats/blob/Surge/SurgePro.conf
 
 ## Module
 ### General
