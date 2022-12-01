@@ -1,0 +1,5 @@
+# NAME: Emby - Bar
+DOMAIN,emby.o9o.nl
+DOMAIN,ddnsjp.titams.xyz
+IP-CIDR,37.128.247.203/32,no-resolve
+IP-CIDR,103.135.249.87/32,no-resolve
