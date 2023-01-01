@@ -2,4 +2,4 @@
 #!desc= Auto Join TestFlight App
 
 [Script]
-Auto join TF = type=cron,cronexp=*/1 * * * * *,script-path=https://github.com/DecoAri/JavaScript/blob/main/Surge/Auto_join_TF.js?raw=true,wake-system=0,timeout=180
+Auto join TF = type=cron,cronexp=*/5 * * * * *,script-path=https://github.com/DecoAri/JavaScript/blob/main/Surge/Auto_join_TF.js?raw=true,wake-system=0,timeout=180
