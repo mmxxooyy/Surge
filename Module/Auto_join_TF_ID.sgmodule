@@ -1,5 +1,5 @@
-#!name= Get TestFlight Account Info
-#!desc= Get TestFlight Id For Auto Join
+#!name= Auto Join TestFlight - Get Account Info
+#!desc= Open TestFlight App First
 
 [Script]
 TF信息获取 = type=http-request,pattern=^https:\/\/testflight\.apple\.com\/v3\/accounts/.*\/apps$,requires-body=0,script-path=https://github.com/DecoAri/JavaScript/blob/main/Surge/TF_keys.js?raw=true
