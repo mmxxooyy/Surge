@@ -86,6 +86,16 @@ Surge Conf
  https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Dualsub.sgmodule
  
  https://raw.githubusercontent.com/DualSubs/DualSubs/main/sgmodule/DualSubs.sgmodule
+ 
+  - Auto Join TestFlight
+ 
+ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Auto_join_TF.sgmodule
+ 
+ https://raw.githubusercontent.com/DecoAri/Module/main/Surge/Auto_join_TF.sgmodule
+ 
+  - Auto Join TestFlight - Get Account Info
+ 
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Auto_join_TF_ID.sgmodule
 
  - TestFlight Account (include TestFlight Download)
  
