@@ -56,6 +56,10 @@ Surge Conf
  https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Q-Search.sgmodule
  
  https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Surge/Module/Qsearch.sgmodule
+  
+ - QuantumultX to Surge Module
+
+ ✅ https://raw.githubusercontent.com/chengkongyiban/Surge/main/modules/QX_to_Surge.sgmodule
  
  - Github Private Repo
 
