@@ -1,3 +1,10 @@
 # NAME: Unbreak
+# Aqara Home
 DOMAIN,aiot-rpc.aqara.cn
+
+# Alipay Face
 DOMAIN,collect.alipay.com
+
+# AList
+DOMAIN,alist.xiaoya.pro
+
