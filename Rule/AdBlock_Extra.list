@@ -2,7 +2,7 @@
 # 支付宝日志上报
 DOMAIN,loggw.alipay.com.cn
 DOMAIN,datagw-edge.alipay.com
-DOMAIN,umini.shujupie.com
+DOMAIN,frontend-mam.oss-cn-hangzhou.aliyuncs.com
 # 360 智慧家庭广告
 DOMAIN,ad.jia.360.cn
 # 高德地图
