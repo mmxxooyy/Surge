@@ -1,6 +1,8 @@
 # NAME: 去广告额外规则
 # 支付宝日志上报
 DOMAIN,loggw.alipay.com.cn
+DOMAIN,datagw-edge.alipay.com
+DOMAIN,umini.shujupie.com
 # 360 智慧家庭广告
 DOMAIN,ad.jia.360.cn
 # 高德地图
