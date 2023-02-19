@@ -162,8 +162,6 @@ Surge Conf
  
  - ZhiHu
  
- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.sgmodule
- 
  https://raw.githubusercontent.com/app2smile/rules/master/module/zhihu.sgmodule
  
  https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/zhihu/zhihu.sgmodule
