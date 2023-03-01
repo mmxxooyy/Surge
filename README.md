@@ -76,6 +76,10 @@ Surge Conf
 ### Panel
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel.sgmodule
  
+ - Connectivity Test
+
+ https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Connectivity_Test.sgmodule
+ 
 ### App
  - iRingo - Siri & Search
  
@@ -159,6 +163,14 @@ Surge Conf
  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.sgmodule
  
  https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Surge/Module/bilibili_adBlock.sgmodule
+ 
+ - Amap
+ 
+ ✅ https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Amap.confqx
+ 
+ - Cainiao
+
+ ✅ https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.confqx
  
  - ZhiHu
  
