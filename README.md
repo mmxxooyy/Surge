@@ -107,13 +107,17 @@ Surge Conf
 
  - TestFlight Account (include TestFlight Download)
  
- ✅ https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightAccount.sgmodule
+ https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightAccount.sgmodule
  
  https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/TestFlight.sgmodule
  
  - TestFlight Download
  
  https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightDownload.sgmodule
+ 
+  - Cloudflare WARP
+ 
+ ✅ https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/sgmodule/Cloudflare.1.1.1.1.sgmodule
  
  - Bilibili Auto Regions、Custom Tab、Custom Index、Custom My
  
@@ -141,6 +145,10 @@ Surge Conf
  - blackmatrix7 Advertising Lite
  
  ✅ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
+ 
+  - Block HTTPDNS
+ 
+ ✅ https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/HTTPDNS.Block.sgmodule
  
  - App AdBlock
  
