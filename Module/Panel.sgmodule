@@ -3,7 +3,7 @@
 
 [Panel]
 // 网络信息
-NetInfo=title="", content="", style=info, script-name=NetInfo, update-interval=1
+NetInfo= script-name=NetInfo, title="", content="", style=info, update-interval=1
 
 // 刷新 DNS
 FlushDNS = script-name=FlushDNS, icon=arrow.clockwise, update-interval=600
@@ -16,8 +16,8 @@ Sub_info = script-name=SubInfo, update-interval=600
 
 [Script]
 NetInfo = type=generic, script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Network-Info/Moore/Network-Info.js, timeout=30
-FlushDNS = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/asset/flushDNS.js, argument=title=DNS FLush&icon=arrow.triangle.2.circlepath.circle&color=#0089A7
-StreamCheckLite = type=generic, script-path=https://raw.githubusercontent.com/githubdulong/Script/master/Stream-All.js, script-update-interval=0, argument=title=流媒体解锁检测&icon=play.tv.fill&color=#D22F28, timeout=10
+FlushDNS = type=generic, script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/asset/flushDNS.js, argument=title=DNS FLush&icon=arrow.triangle.2.circlepath.circle&color=#0089A7, timeout=10
+StreamCheckLite = type=generic, script-path=https://raw.githubusercontent.com/githubdulong/Script/master/Stream-All.js, argument=title=流媒体解锁检测&icon=play.tv.fill&color=#D22F28, script-update-interval=0, timeout=10
 SubInfo = type=generic, script-path=https://raw.githubusercontent.com/smartmimi/conf/master/surge/sub_info_panel.js, script-update-interval=0, timeout=10
 
 [Host]
