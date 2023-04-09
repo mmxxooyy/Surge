@@ -12,10 +12,6 @@ DOMAIN,alist.xiaoya.pro
 DOMAIN-SUFFIX,paymaya.com
 DOMAIN-SUFFIX,maya.ph
 
-# GCash
-DOMAIN-SUFFIX,gcash.com
-DOMAIN-SUFFIX,mynt.xyz
-
 # Globe
 DOMAIN-SUFFIX,globe.com.ph
 
