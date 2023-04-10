@@ -8,13 +8,9 @@ NetInfo= script-name=NetInfo, title="", content="", style=info, update-interval=
 // 流媒体解锁检测 Lite
 Stream_Check_Lite = script-name=StreamCheckLite, update-interval=7200
 
-// 节点订阅信息（https://raw.githubusercontent.com/smartmimi/conf/master/boxjs/cookie.boxjs.json，并按提示填写订阅链接等参数。）
-Sub_info = script-name=SubInfo, update-interval=600
-
 [Script]
 NetInfo = type=generic, script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Network-Info/Moore/Network-Info.js, timeout=30
 StreamCheckLite = type=generic, script-path=https://raw.githubusercontent.com/githubdulong/Script/master/Stream-All.js, argument=title=流媒体解锁检测&icon=play.tv.fill&color=#D22F28, script-update-interval=0, timeout=10
-SubInfo = type=generic, script-path=https://raw.githubusercontent.com/smartmimi/conf/master/surge/sub_info_panel.js, script-update-interval=0, timeout=10
 
 [Host]
 ip-api.com = 208.95.112.1
