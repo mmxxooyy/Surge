@@ -8,10 +8,6 @@ DOMAIN,collect.alipay.com
 # AList
 DOMAIN,alist.xiaoya.pro
 
-# Maya
-DOMAIN-SUFFIX,paymaya.com
-DOMAIN-SUFFIX,maya.ph
-
 # Globe
 DOMAIN-SUFFIX,globe.com.ph
 
