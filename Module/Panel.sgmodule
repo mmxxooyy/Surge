@@ -3,7 +3,7 @@
 
 [Panel]
 // 网络信息
-NetInfo= script-name=NetInfo, title="", content="", style=info, update-interval=1
+NetInfo= script-name=NetInfo, title="", content="", style=info, update-interval=0
 
 // 流媒体解锁检测 Lite
 Stream_Check_Lite = script-name=StreamCheckLite, update-interval=86400
