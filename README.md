@@ -174,7 +174,9 @@ Surge Conf
  
  - Amap
  
- ✅ https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Amap.confqx
+ ✅ https://raw.githubusercontent.com/kokoryh/Script/master/Surge/module/amap.sgmodule
+ 
+ https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Amap.confqx
  
  - Cainiao
 
