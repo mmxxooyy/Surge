@@ -85,7 +85,7 @@ Surge Conf
  
  ✅ https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Siri.sgmodule
  
- - iRingo - Location
+ - iRingo - Location & Map
  
  ✅ https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Location.sgmodule
  
