@@ -121,7 +121,11 @@ Surge Conf
  
  - Bilibili Auto Regions、Custom Tab、Custom Index、Custom My
  
- ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili.sgmodule
+ ✅ https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.sgmodule
+ 
+ ✅ https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.Enhanced.sgmodule
+ 
+ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili.sgmodule
  
  - JD/Taobao Price
 
