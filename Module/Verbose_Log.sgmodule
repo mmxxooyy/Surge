@@ -1,0 +1,5 @@
+#!name=Log Level Verbose
+#!desc=开启详细日志
+
+[General]
+loglevel = verbose
