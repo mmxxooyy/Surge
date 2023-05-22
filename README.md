@@ -24,9 +24,13 @@ Surge Conf
  
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/IPv6.sgmodule
  
+  - Log Level Verbose
+ 
+ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Verbose_Log.sgmodule
+ 
  - DNS for Router and Companys
  
- ✅ https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/DNS.sgmodule
+ https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/DNS.sgmodule
  
  - Tun Only
  
@@ -117,13 +121,15 @@ Surge Conf
  
   - Cloudflare WARP
  
- ✅ https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/sgmodule/Cloudflare.1.1.1.1.sgmodule
+ https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/sgmodule/Cloudflare.1.1.1.1.sgmodule
  
  - Bilibili Auto Regions、Custom Tab、Custom Index、Custom My
  
  ✅ https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.sgmodule
  
  ✅ https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.Enhanced.sgmodule
+ 
+ ✅ https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.sgmodule
  
  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili.sgmodule
  
