@@ -146,10 +146,10 @@ panel_result['content'] = content
   
     let netflix_check_result = 'Netflix: '
   
-    await inner_check(81280792)
+    await inner_check(70143836)
       .then((code) => {
         if (code === 'Not Found') {
-          return inner_check(80018499)
+          return inner_check(81280792)
         }
         netflix_check_result += '已完整解锁，区域: ' + code.toUpperCase()
         return Promise.reject('BreakSignal')
