@@ -10,7 +10,7 @@ Stream_Check = script-name=StreamCheck, update-interval=0
 
 [Script]
 NetInfo = type=generic, script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Network-Info/Moore/Network-Info.js, timeout=30
-StreamCheck = type=generic, script-path=https://raw.githubusercontent.com/LucaLin233/Luca_Conf/main/Surge/JS/stream-all.js, argument=title=流媒体解锁检测&icon=play.tv.fill&color=#D22F28, script-update-interval=0, timeout=10
+StreamCheck = type=generic, script-path=https://raw.githubusercontent.com/LucaLin233/Luca_Conf/main/Surge/JS/stream-all.js, script-update-interval=0, timeout=10
 
 [Host]
 ip-api.com = 208.95.112.1
