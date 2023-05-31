@@ -28,6 +28,9 @@ DOMAIN-SUFFIX,grab.com
 # Amazon CN
 DOMAIN-SUFFIX,amazon.cn
 
+# Amy
+DOMAIN-SUFFIX,eicuhq.xyz
+
 # Alibaba US
 IP-CIDR,8.209.0.0/16
 IP-CIDR,8.211.0.0/16
