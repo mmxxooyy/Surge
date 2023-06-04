@@ -6,6 +6,7 @@ PROCESS-NAME,fdm
 PROCESS-NAME,Folx
 PROCESS-NAME,NetTransport
 PROCESS-NAME,Thunder
+PROCESS-NAME,qbittorrent
 PROCESS-NAME,Transmission
 PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
