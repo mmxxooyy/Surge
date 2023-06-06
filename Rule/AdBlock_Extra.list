@@ -9,3 +9,5 @@ DOMAIN,amdc.m.taobao.com
 # 猛犸充电
 DOMAIN,frontend-mam.oss-cn-hangzhou.aliyuncs.com
 DOMAIN,shop-cps.mambike.com
+# SonyTV
+URL-REGEX,^http?:\/\/60\.29\.240\.57\/analytics\/upload
