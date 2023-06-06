@@ -10,4 +10,4 @@ DOMAIN,amdc.m.taobao.com
 DOMAIN,frontend-mam.oss-cn-hangzhou.aliyuncs.com
 DOMAIN,shop-cps.mambike.com
 # SonyTV
-URL-REGEX,^http?:\/\/60\.29\.240\.57\/analytics\/upload
+URL-REGEX,^http?:\/\/60\.29\.[1-9]\d*\.[1-9]\d*\/analytics\/upload
