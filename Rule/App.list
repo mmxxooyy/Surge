@@ -11,5 +11,5 @@ PROCESS-NAME,Thunder
 PROCESS-NAME,UUBooster
 
 # Remote Control
-PROCESS-NAME,SRStreamerDaemon
-PROCESS-NAME,parsecd
+PROCESS-NAME,Splashtop Streamer
+PROCESS-NAME,Parsec
