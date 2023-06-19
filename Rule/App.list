@@ -6,7 +6,10 @@ PROCESS-NAME,aria2c
 PROCESS-NAME,fdm
 PROCESS-NAME,Folx
 PROCESS-NAME,Thunder
+
 # Booster
 PROCESS-NAME,UUBooster
+
 # Remote Control
 PROCESS-NAME,SRStreamerDaemon
+PROCESS-NAME,parsecd
