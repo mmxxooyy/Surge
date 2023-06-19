@@ -6,6 +6,7 @@ PROCESS-NAME,aria2c
 PROCESS-NAME,fdm
 PROCESS-NAME,Folx
 PROCESS-NAME,Thunder
+PROCESS-NAME,uTorrent.exe
 
 # Booster
 PROCESS-NAME,UUBooster
