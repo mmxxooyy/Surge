@@ -1,0 +1,5 @@
+#!name=Display Apple Request
+#!desc= 取消隐藏 Apple 请求
+
+[Replica]
+hide-apple-request = 0
