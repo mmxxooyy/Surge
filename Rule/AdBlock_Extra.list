@@ -9,3 +9,5 @@ DOMAIN,amdc.m.taobao.com
 # 猛犸充电
 DOMAIN,frontend-mam.oss-cn-hangzhou.aliyuncs.com
 DOMAIN,shop-cps.mambike.com
+# SonyTV
+DOMAIN-SUFFIX,play.t002.ottcn.com
