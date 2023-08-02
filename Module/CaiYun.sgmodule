@@ -1,0 +1,8 @@
+#!name=CaiYun Weather
+#!desc=CaiYun Weather VIP
+
+[Script]
+CaiYun = type=http-response,pattern=^https:\/\/biz\.cyapi\.cn\/(p\/v1\/vip_info|v2\/user),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/break/caiyun.js
+
+[MITM]
+hostname = %APPEND% biz.cyapi.cn,wrapper.cyapi.cn
