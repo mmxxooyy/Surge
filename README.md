@@ -16,11 +16,11 @@ Surge Conf
 
 ## Module
 ### General
- - Hide VPN
+ - Hide VPN 📱
  
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/HideVPN.sgmodule
  
- - Enable ipv6
+ - Enable ipv6 📱
  
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/IPv6.sgmodule
  
@@ -36,20 +36,24 @@ Surge Conf
  
  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/TunOnly.sgmodule
  
- - Skip Proxy
+ - Skip Proxy 📱🖥️
  
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/SkipProxy.module
  
  https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/General.sgmodule
  
  https://raw.githubusercontent.com/mieqq/mieqq/master/skip-proxy-lists.sgmodule
+
+  - Display Apple Request
+ 
+ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Display_Apple_Request.sgmodule
  
 ### Enhance
- - SubStore
+ - SubStore 📱🖥️
  
  ✅ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule
  
- - BoxJS
+ - BoxJS 📱🖥️📺
 
  ✅ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule
  
@@ -61,9 +65,13 @@ Surge Conf
  
  https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Surge/Module/Qsearch.sgmodule
   
- - QuantumultX to Surge Module
+ - QuantumultX to Surge Module 📱🖥️
 
  ✅ https://raw.githubusercontent.com/chengkongyiban/Surge/main/modules/QX_to_Surge.sgmodule
+
+  - Scipt Hub
+
+ https://raw.githubusercontent.com/chengkongyiban/Surge/main/modules/QX_to_Surge.sgmodule
  
  - Github Private Repo
 
@@ -78,6 +86,8 @@ Surge Conf
  https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.sgmodule
  
 ### Panel
+ - Mine 📱
+
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel.sgmodule
  
  - Connectivity Test
@@ -85,11 +95,11 @@ Surge Conf
  https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Connectivity_Test.sgmodule
  
 ### App
- - iRingo - Siri & Search
+ - iRingo - Siri & Search 📱🖥️
  
  ✅ https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Siri.sgmodule
  
- - iRingo - Location & Map
+ - iRingo - Location & Map 📱🖥️
  
  ✅ https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Location.sgmodule
  
@@ -123,7 +133,7 @@ Surge Conf
  
  https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/sgmodule/Cloudflare.1.1.1.1.sgmodule
  
- - Bilibili Auto Regions、Custom Tab、Custom Index、Custom My
+ - Bilibili Auto Regions、Custom Tab、Custom Index、Custom My 📱🖥️📺
  
  ✅ https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.sgmodule
  
@@ -141,7 +151,7 @@ Surge Conf
  
  https://raw.githubusercontent.com/HotKids/Rules/master/Surge/Module/Price.sgmodule
  
- - Emby Premiere
+ - Emby Premiere 📱
  
  ✅ https://raw.githubusercontent.com/rartv/SurgeScript/main/EmbyPremiere/EmbyPremiere.sgmodule
  
@@ -149,16 +159,24 @@ Surge Conf
  
  - TickTick
  
- ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/TickTick.sgmodule
+ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/TickTick.sgmodule
+
+  - CaiYun 📱
+ 
+ ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/CaiYun.sgmodule
 
 ### BlockAd
- - blackmatrix7 Advertising Lite
+ - blackmatrix7 Advertising Lite 📱
  
  ✅ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
  
-  - Block HTTPDNS
+  - Block HTTPDNS 📱🖥️
  
  ✅ https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/HTTPDNS.Block.sgmodule
+
+  - AdSense 📱
+ 
+ ✅ https://raw.githubusercontent.com/app2smile/rules/master/module/adsense.sgmodule
  
  - App AdBlock
  
@@ -182,15 +200,17 @@ Surge Conf
  
  https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Surge/Module/bilibili_adBlock.sgmodule
  
- - Amap
+ - Amap 📱
  
  ✅ https://raw.githubusercontent.com/kokoryh/Script/master/Surge/module/amap.sgmodule
  
  https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Amap.confqx
  
- - Cainiao
+ - Cainiao 📱
 
- ✅ https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.confqx
+ ✅ https://raw.githubusercontent.com/Keywos/rule/main/module/Cainiao.sgmodule
+ 
+ https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.confqx
  
  - ZhiHu
  
@@ -206,14 +226,14 @@ Surge Conf
  
  https://raw.githubusercontent.com/zmqcherish/proxy-script/main/weibo.sgmodule
  
- - SMZDM
+ - SMZDM 📱
  
- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule
+ ✅ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule
  
  - Tieba
  
  https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.sgmodule
  
- - 369
+ - 369 📱
  
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/369Bus.sgmodule
