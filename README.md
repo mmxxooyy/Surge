@@ -51,7 +51,7 @@ Surge Conf
 ### Enhance
  - SubStore 📱🖥️
  
- ✅ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule
+ ✅ https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Surge.sgmodule
  
  - BoxJS 📱🖥️📺
 
