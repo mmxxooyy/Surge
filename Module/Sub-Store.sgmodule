@@ -1,0 +1,9 @@
+#!name=Sub-Store
+#!desc=高级订阅管理工具 @Peng-YM  无 ability 参数,无定时同步
+
+[MITM]
+hostname = %APPEND% sub.store
+
+[Script]
+Sub-Store Core=type=http-request,pattern=^https?:\/\/sub\.store\/((download)|api\/(preview|sync|(utils\/node-info))),script-path=https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-1.min.js,requires-body=true,timeout=120
+Sub-Store Simple=type=http-request,pattern=^https?:\/\/sub\.store,script-path=https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-0.min.js,requires-body=true
