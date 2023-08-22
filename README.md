@@ -52,6 +52,8 @@ Surge Conf
  - SubStore 📱🖥️
  
  ✅ https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Surge.sgmodule
+
+ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Sub-Store.sgmodule
  
  - BoxJS 📱🖥️📺
 
