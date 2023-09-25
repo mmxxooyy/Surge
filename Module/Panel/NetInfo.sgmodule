@@ -3,7 +3,7 @@
 #!system=ios
 
 [Panel]
-NetInfo = script-name=NetISP, update-interval=300
+NetInfo = script-name=NetInfo, update-interval=300
 
 [Script]
 NetInfo = type=generic, script-path=https://raw.githubusercontent.com/mmxxooyy/Surge/main/Script/net_info.js, timeout=10
