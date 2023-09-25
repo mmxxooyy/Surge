@@ -43,10 +43,6 @@ Surge Conf
  https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/General.sgmodule
  
  https://raw.githubusercontent.com/mieqq/mieqq/master/skip-proxy-lists.sgmodule
-
-  - Display Apple Request
- 
- https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Display_Apple_Request.sgmodule
  
 ### Enhance
  - SubStore 📱🖥️
