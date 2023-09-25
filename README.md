@@ -84,9 +84,23 @@ Surge Conf
  https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.sgmodule
  
 ### Panel
- - Mine 📱
+ - StreamCheck Lite 📱
 
- ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel.sgmodule
+ ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel/StreamCheck_Lite.sgmodule
+
+  - Net ISP 📱
+
+ ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel/NetISP.sgmodule
+ 
+ https://raw.githubusercontent.com/Keywos/rule/main/module/NetIspmini.sgmodule
+
+  - Network Info 📱
+
+ ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel/NetworkInfo.sgmodule
+
+ https://raw.githubusercontent.com/Nebulosa-Cat/Surge/main/Panel/Network-Info/Network-Info.sgmodule
+
+ https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Network-Info/Moore/Network-Info.sgmodule
  
  - Connectivity Test
 
