@@ -185,7 +185,7 @@ function getIP() {
     if (v6?.primaryRouter && getSSID()) info.push(`Router v6 ：${v6?.primaryRouter}`);
   }
   info = info.join("\n");
-  return info + "\n";
+  return info;
 }
 
 /**
