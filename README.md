@@ -150,9 +150,9 @@ Surge Conf
  ✅ https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.sgmodule
  
  ✅ https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.Enhanced.sgmodule
- 
- ✅ https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.ADBlock.sgmodule
- 
+
+ ✅ https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/modules/BiliBili.ADBlock.sgmodule
+
  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili.sgmodule
  
  - JD/Taobao Price
