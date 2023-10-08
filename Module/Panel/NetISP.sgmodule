@@ -3,7 +3,7 @@
 #!system=ios
 
 [Panel]
-NetISP = script-name=NetISP, update-interval=300
+NetISP = script-name=NetISP, update-interval=5
 
 [Script]
 NetISP = type=generic, script-path=https://raw.githubusercontent.com/mmxxooyy/Surge/main/Script/net_isp.js, timeout=10
