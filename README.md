@@ -73,7 +73,7 @@ Surge Conf
 
   - Scipt Hub
 
-  https://raw.githubusercontent.com/chengkongyiban/Surge/main/modules/QX_to_Surge.sgmodule ✅
+  https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.surge.sgmodule ✅
  
   - Github Private Repo
 
@@ -185,7 +185,9 @@ Surge Conf
 
   - CaiYun 📱
  
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/CaiYun.sgmodule ✅
+  https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Surge/Module/CYTQ.sgmodule ✅
+
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/CaiYun.sgmodule
 
 ### BlockAd
 
@@ -205,7 +207,7 @@ Surge Conf
  
   https://raw.githubusercontent.com/app2smile/rules/master/module/adsense.sgmodule ✅
 
-  - yfamily
+  - yfamily AdBlock
 
   https://yfamily.vercel.app/module/AdBlock.module
  
@@ -240,6 +242,10 @@ Surge Conf
   http://script.hub/file/_start_/https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Amap_remove_ads.plugin/_end_/Amap_remove_ads.sgmodule?type=loon-plugin&target=surge-module
  
   https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Amap.confqx
+
+  - Baidu Map
+
+  http://script.hub/file/_start_/https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/bdmap.snippet/_end_/bdmap.sgmodule?type=qx-rewrite&target=surge-module ✅
  
   - Cainiao 📱
 
