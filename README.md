@@ -16,6 +16,7 @@ Surge Conf
 
 ## Module
 ### General
+
  - Hide VPN 📱
  
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/HideVPN.sgmodule
@@ -45,6 +46,7 @@ Surge Conf
  https://raw.githubusercontent.com/mieqq/mieqq/master/skip-proxy-lists.sgmodule
  
 ### Enhance
+
  - SubStore 📱🖥️
  
  ✅ https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Surge.sgmodule
@@ -88,6 +90,7 @@ Surge Conf
  https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.sgmodule
  
 ### Panel
+
  - StreamCheck Lite 📱
 
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel/StreamCheck_Lite.sgmodule
@@ -111,6 +114,7 @@ Surge Conf
  https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Connectivity_Test.sgmodule
  
 ### App
+
  - iRingo - Siri & Search 📱🖥️
  
  ✅ https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Siri.sgmodule
@@ -182,6 +186,7 @@ Surge Conf
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/CaiYun.sgmodule
 
 ### BlockAd
+
  - Mine📱
 
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/AdBlock.sgmodule
@@ -222,7 +227,9 @@ Surge Conf
  
  - Amap 📱
  
- ✅ https://raw.githubusercontent.com/kokoryh/Script/master/Surge/module/amap.sgmodule
+ ✅ http://script.hub/file/_start_/https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/amap.snippet/_end_/amap.sgmodule?type=qx-rewrite&target=surge-module
+ 
+ https://raw.githubusercontent.com/kokoryh/Script/master/Surge/module/amap.sgmodule
  
  https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Amap.confqx
  
