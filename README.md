@@ -78,6 +78,10 @@ Surge Conf
  - Auto Policy
  
  https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.sgmodule
+
+ - NetworkFirewall
+ 
+ https://gist.githubusercontent.com/NobyDa/fb026a6d01fec146bd451d01b0c973d5/raw/NetworkFirewall.sgmodule
  
  - SMS Forward
  
@@ -178,6 +182,10 @@ Surge Conf
  ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/CaiYun.sgmodule
 
 ### BlockAd
+ - Mine📱
+
+ ✅ https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/AdBlock.sgmodule
+
  - blackmatrix7 Advertising Lite 📱
  
  ✅ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
