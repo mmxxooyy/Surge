@@ -1,0 +1,5 @@
+#!name=Bilibili Specify DNS
+#!desc=Specify Bilibili DNS
+
+[Host]
+*.bilibili.com = 221.204.56.93
