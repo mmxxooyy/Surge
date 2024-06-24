@@ -121,9 +121,13 @@ Surge Conf
  
   https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Siri.sgmodule ✅
  
-  - iRingo - Location & Map 📱🖥️
+  - iRingo - Location 📱🖥️
  
   https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Location.sgmodule ✅
+ 
+  - iRingo - Map 📱🖥️
+ 
+  https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Maps.sgmodule ✅
  
   - Dualsub
  
