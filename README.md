@@ -73,7 +73,7 @@ Surge Conf
 
   - Scipt Hub
 
-  https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.surge.sgmodule ✅
+  https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.surge.sgmodule
  
   - Github Private Repo
 
