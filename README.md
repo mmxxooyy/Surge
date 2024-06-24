@@ -129,11 +129,15 @@ Surge Conf
  
   https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Maps.sgmodule ✅
  
-  - Dualsub
+  - Dualsub - Universal
  
   https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Dualsub.sgmodule
  
   https://raw.githubusercontent.com/DualSubs/DualSubs/main/sgmodule/DualSubs.sgmodule
+
+  - Dualsub - Spotify 📱
+ 
+  https://github.com/DualSubs/Spotify/raw/main/modules/DualSubs.Spotify.sgmodule ✅
  
   - Auto Join TestFlight
  
