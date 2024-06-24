@@ -47,7 +47,7 @@ Surge Conf
  
   https://raw.githubusercontent.com/mieqq/mieqq/master/skip-proxy-lists.sgmodule
  
-### Enhance
+### Tool
 
   - SubStore 📱🖥️
  
