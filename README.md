@@ -34,6 +34,10 @@ Surge Conf
   - DNS for Router and Companys
  
   https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/DNS.sgmodule
+
+  - Block HTTPDNS 📱🖥️
+ 
+  https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/HTTPDNS.Block.sgmodule ✅
  
   - Tun Only
  
@@ -210,10 +214,6 @@ Surge Conf
   - blackmatrix7 Advertising Lite
  
   https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
- 
-  - Block HTTPDNS 📱🖥️
- 
-  https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/HTTPDNS.Block.sgmodule ✅
 
   - AdSense 📱
  
