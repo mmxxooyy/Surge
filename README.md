@@ -172,6 +172,10 @@ Surge Conf
   https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/modules/BiliBili.ADBlock.sgmodule ✅
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili.sgmodule
+
+  - Bilibili Specify DNS 📱🖥️📺
+
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili_DNS.sgmodule ✅
  
   - JD/Taobao Price
 
