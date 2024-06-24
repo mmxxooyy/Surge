@@ -34,10 +34,6 @@ Surge Conf
   - DNS for Router and Companys
  
   https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/DNS.sgmodule
-
-  - Block HTTPDNS 📱🖥️
- 
-  https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/HTTPDNS.Block.sgmodule ✅
  
   - Tun Only
  
@@ -206,6 +202,10 @@ Surge Conf
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/CaiYun.sgmodule
 
 ### BlockAd
+
+  - Block HTTPDNS 📱🖥️
+ 
+  https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/HTTPDNS.Block.sgmodule ✅
 
   - Mine
 
