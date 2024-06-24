@@ -93,19 +93,19 @@ Surge Conf
  
 ### Panel
 
-  - StreamCheck Lite 📱
-
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel/StreamCheck_Lite.sgmodule ✅
-
   - Net ISP 📱
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel/NetISP.sgmodule ✅
  
   https://raw.githubusercontent.com/Keywos/rule/main/module/NetIspmini.sgmodule
 
+  - StreamCheck Lite 📱
+
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel/StreamCheck_Lite.sgmodule
+
   - Network Info 📱
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel/NetworkInfo.sgmodule ✅
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel/NetworkInfo.sgmodule
 
   https://raw.githubusercontent.com/Nebulosa-Cat/Surge/main/Panel/Network-Info/Network-Info.sgmodule
 
