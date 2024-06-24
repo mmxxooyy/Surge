@@ -25,7 +25,7 @@ Surge Conf
  
   - Enable ipv6 📱
  
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/IPv6.sgmodule ✅
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/IPv6.sgmodule
  
   - Log Level Verbose
  
@@ -69,7 +69,7 @@ Surge Conf
   
   - QuantumultX to Surge Module 📱🖥️
 
-  https://raw.githubusercontent.com/chengkongyiban/Surge/main/modules/QX_to_Surge.sgmodule ✅
+  https://raw.githubusercontent.com/chengkongyiban/Surge/main/modules/QX_to_Surge.sgmodule
 
   - Scipt Hub
 
