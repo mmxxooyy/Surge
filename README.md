@@ -203,13 +203,13 @@ Surge Conf
 
 ### BlockAd
 
-  - Mine📱
+  - Mine
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/AdBlock.sgmodule ✅
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/AdBlock.sgmodule
 
-  - blackmatrix7 Advertising Lite 📱
+  - blackmatrix7 Advertising Lite
  
-  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule ✅
+  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
  
   - Block HTTPDNS 📱🖥️
  
@@ -219,9 +219,9 @@ Surge Conf
  
   https://raw.githubusercontent.com/app2smile/rules/master/module/adsense.sgmodule ✅
 
-  - yfamily AdBlock
+  - yfamily AdBlock 📱
 
-  https://yfamily.vercel.app/module/AdBlock.module
+  https://yfamily.vercel.app/module/AdBlock.module ✅
  
   - App AdBlock
  
@@ -247,7 +247,7 @@ Surge Conf
  
   - Amap 📱
  
-  http://script.hub/file/_start_/https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/amap.snippet/_end_/amap.sgmodule?type=qx-rewrite&target=surge-module ✅
+  https://script.hub/file/_start_/https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/amap.snippet/_end_/amap.sgmodule?type=qx-rewrite&target=surge-module ✅
  
   https://raw.githubusercontent.com/kokoryh/Script/master/Surge/module/amap.sgmodule
 
@@ -257,11 +257,13 @@ Surge Conf
 
   - Baidu Map
 
-  http://script.hub/file/_start_/https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/bdmap.snippet/_end_/bdmap.sgmodule?type=qx-rewrite&target=surge-module ✅
+  https://script.hub/file/_start_/https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/bdmap.snippet/_end_/bdmap.sgmodule?type=qx-rewrite&target=surge-module ✅
  
   - Cainiao 📱
 
-  https://raw.githubusercontent.com/Keywos/rule/main/module/Cainiao.sgmodule ✅
+  https://script.hub/file/_start_/https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf/_end_/Cainiao.sgmodule?type=qx-rewrite&target=surge-module&del=true ✅
+
+  https://raw.githubusercontent.com/Keywos/rule/main/module/Cainiao.sgmodule
  
   https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.confqx
  
