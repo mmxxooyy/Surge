@@ -14,3 +14,5 @@ DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
 # 腾讯云 (蒸汽中国独占)
 DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
+# Akamai 
+DOMAIN,steamcdn-a.akamaihd.net
