@@ -9,8 +9,6 @@ data.tab_conf = {};
 // 删除 - 广告配置
 delete data.ad_conf;
 
-data.video_cloud_banner.on = -1;
-
 data.settingServiceConfig.data = [];
 
 $done({ body: JSON.stringify(data) });
