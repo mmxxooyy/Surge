@@ -9,4 +9,4 @@ data.tab_conf = {};
 // 删除 - 广告配置
 delete data.ad_conf;
 
-$done({ body: JSON.stringify(json) });
+$done({ body: JSON.stringify(data) });
