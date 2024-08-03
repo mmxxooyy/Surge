@@ -178,8 +178,6 @@ Surge Conf
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili_Unlock.sgmodule  ✅
 
   - Bilibili Specify DNS 📱🖥️📺
-
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili_DNS.sgmodule ✅
  
   - JD/Taobao Price
 
@@ -223,6 +221,10 @@ Surge Conf
  
   https://raw.githubusercontent.com/app2smile/rules/master/module/adsense.sgmodule ✅
 
+  - AdSense 📱🖥️
+
+  https://script.hub/file/_start_/https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BlockAdvertisers.plugin/_end_/BlockAdvertisers.sgmodule.txt?type=loon-plugin&target=surge-module&del=true ✅
+
   - yfamily AdBlock 📱
 
   https://yfamily.vercel.app/module/AdBlock.module ✅
@@ -255,7 +257,7 @@ Surge Conf
  
   https://raw.githubusercontent.com/kokoryh/Script/master/Surge/module/amap.sgmodule
 
-  http://script.hub/file/_start_/https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Amap_remove_ads.plugin/_end_/Amap_remove_ads.sgmodule?type=loon-plugin&target=surge-module
+  https://script.hub/file/_start_/https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Amap_remove_ads.plugin/_end_/Amap_remove_ads.sgmodule?type=loon-plugin&target=surge-module
  
   https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Amap.confqx
 
@@ -296,3 +298,7 @@ Surge Conf
   - 369 📱
  
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/369Bus.sgmodule ✅
+
+  - 360Jia 📱
+ 
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/360jia.sgmodule ✅
