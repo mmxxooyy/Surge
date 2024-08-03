@@ -175,6 +175,8 @@ Surge Conf
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili.sgmodule
 
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili_Unlock.sgmodule  ✅
+
   - Bilibili Specify DNS 📱🖥️📺
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili_DNS.sgmodule ✅
