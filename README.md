@@ -83,9 +83,9 @@ Surge Conf
  
   https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.sgmodule
 
-  - NetworkFirewall
+  - NetworkFirewall 📱
  
-  https://gist.githubusercontent.com/NobyDa/fb026a6d01fec146bd451d01b0c973d5/raw/NetworkFirewall.sgmodule
+  https://gist.githubusercontent.com/NobyDa/fb026a6d01fec146bd451d01b0c973d5/raw/NetworkFirewall.sgmodule ✅
  
   - SMS Forward
  
