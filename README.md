@@ -171,6 +171,8 @@ Surge Conf
 
   https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/modules/BiliBili.ADBlock.sgmodule ✅
 
+  https://raw.githubusercontent.com/BiliUniverse/Redirect/main/modules/BiliBili.Redirect.sgmodule
+
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili.sgmodule
 
   - Bilibili Specify DNS 📱🖥️📺
