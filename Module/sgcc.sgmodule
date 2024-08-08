@@ -1,6 +1,11 @@
 #!name=sgcc
 #!desc=网上国网电费查询
 
+# BoxJs订阅地址:
+# https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/boxjs.json
+# Scriptable 脚本地址：
+# https://raw.githubusercontent.com/mmxxooyy/Surge/main/Script/sgcc.scriptable.js
+
 [Script]
 Scriptable Data Update = type=http-request, pattern=^https?:\/\/api\.example\.com\/electricity\/bill\/all, requires-body=1, max-size=0, timeout=60, script-path=https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/95598/95598.scriptable.js
 
