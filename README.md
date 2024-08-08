@@ -203,6 +203,10 @@ Surge Conf
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/CaiYun.sgmodule
 
+  - SGCC 📱🖥
+ 
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/sgcc.sgmodule ✅
+
 ### BlockAd
 
   - Block HTTPDNS 📱🖥️
