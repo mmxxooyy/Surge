@@ -504,7 +504,7 @@ const addTitleName = (topLeft) => {
 			{
 				textColor: BillStyle.color,
 				font: BillStyle.largeFont,
-				url: "scriptable:///run?scriptName=%E7%BD%91%E4%B8%8A%E5%9B%BD%E7%BD%91&event=switchAcc",
+				url: "scriptable:///run?scriptName=sgcc&event=switchAcc",
 			},
 		],
 	});
