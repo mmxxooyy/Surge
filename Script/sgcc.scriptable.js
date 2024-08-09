@@ -522,7 +522,7 @@ const addIcon = (topLeft, newWidth, newheight) => {
 			//backgroundColor: Color.red(),
 
 			addText: [
-				"余额",
+				isOverdue ? "欠费" : "余额",
 				{
 					textColor: BillStyle.color,
 					font: BillStyle.mediumFont,
@@ -562,13 +562,9 @@ const addIcon = (topLeft, newWidth, newheight) => {
 };
 
 const addBalance = (topLeft) => {
-	let body = BillData.find((i) => i.title === "余额").value;
-	let lowBalance = false;
-	if (body < 0) {
-		body = Math.abs(body);
-		lowBalance = true;
-	}
+	const body = BillData.find((i) => i.title === "余额").value;
 	let [int, decimal] = (+body).toFixed(2).split(".");
+	int = isOverdue ? "-" + int : int;
 	const width = topLeft.size.width;
 	const height = topLeft.size.height / 4;
 
@@ -582,6 +578,7 @@ const addBalance = (topLeft) => {
 
 	//27号字体的宽度
 	let fontWidthList = {
+		"-": 13,
 		0: 18,
 		1: 13,
 		2: 17,
@@ -596,11 +593,6 @@ const addBalance = (topLeft) => {
 
 	w += w_Init;
 	ctx.setFont(Font.boldSystemFont(27));
-	if (lowBalance) {
-		ctx.drawText('-', new Point(w, -2));
-		w += 13;
-	}
-
 	ctx.drawText(int, new Point(w, -2));
 
 	int.split("").forEach((n) => (w += fontWidthList[n]));
@@ -622,7 +614,7 @@ const addBalance = (topLeft) => {
 		addImage: [
 			ctx.getImage(),
 			{
-				tintColor: icons.color,
+				tintColor: isOverdue ? new Color("#B32E4E") : icons.color,
 			},
 		],
 	});
@@ -744,7 +736,6 @@ const containerTopRight = (containerTop) =>
 
 		addSpacer: containerTop.size.height * 0.1,
 
-
 		updateTime(TopRight) {
 			TopRight.addStack().myProxy({
 				bottomAlignContent: true,
@@ -777,7 +768,7 @@ const createContainerBottom = (container) =>
 
 		populateBottomContainer(containerbottom) {
 			const newData = BillData.filter(
-				(i) => !/用户|余额|截至日期/.test(i.title)
+				(i) => !/用户|余额|截至日期|是否欠费/.test(i.title)
 			);
 			newData.forEach((item) => {
 				const col = containerbottom.addStack().myProxy({
@@ -971,7 +962,6 @@ class UIData {
 
 		if (index !== -1) this.index = index;
 	}
-
 }
 
 const uiData = await UIData.create(
@@ -979,6 +969,8 @@ const uiData = await UIData.create(
 );
 
 const BillData = await uiData.getData();
+
+const isOverdue = BillData.find(i => i.title === "是否欠费").value;
 
 new ListWidget().myProxy({
 	// 设置背景渐变
