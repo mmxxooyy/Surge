@@ -11,3 +11,5 @@ DOMAIN,frontend-mam.oss-cn-hangzhou.aliyuncs.com
 DOMAIN,shop-cps.mambike.com
 # SonyTV
 DOMAIN-SUFFIX,play.t002.ottcn.com
+# Mongo
+DOMAIN-SUFFIX,stat.yfp2p.net
