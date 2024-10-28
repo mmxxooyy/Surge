@@ -14,4 +14,3 @@ PROCESS-NAME,UUBooster
 # Remote Control
 PROCESS-NAME,Splashtop Streamer
 PROCESS-NAME,SRStreamerDaemon
-PROCESS-NAME,parsecd
