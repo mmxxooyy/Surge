@@ -15,6 +15,10 @@ Surge Conf
 ### BlueGrave - https://github.com/BlueGrave/Surge/blob/master/General.conf
 ### GetSomeCats - https://github.com/getsomecat/GetSomeCats/blob/Surge/SurgePro.conf
 
+## Modules
+
+### LoonKissSurge - https://surge.qingr.moe/
+
 ## Module
 
 ### General
@@ -121,27 +125,27 @@ Surge Conf
  
 ### App
 
-  - iRingo - Siri & Search 📱🖥️
+  - iRingo - Weather
  
-  https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Siri.sgmodule ✅
+  https://github.com/NSRingo/WeatherKit/releases/latest/download/WeatherKit.sgmodule
  
   - iRingo - Location 📱🖥️
  
-  https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Location.sgmodule ✅
+  https://github.com/NSRingo/GeoServices/releases/latest/download/Location.sgmodule ✅
  
   - iRingo - Map 📱🖥️
  
-  https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/Maps.sgmodule ✅
+  https://github.com/NSRingo/GeoServices/releases/latest/download/Maps.sgmodule ✅
  
   - Dualsub - Universal
  
   https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Dualsub.sgmodule
  
-  https://raw.githubusercontent.com/DualSubs/DualSubs/main/sgmodule/DualSubs.sgmodule
+  https://github.com/DualSubs/Universal/releases/latest/download/Universal.sgmodule
 
   - Dualsub - Spotify 📱
  
-  https://github.com/DualSubs/Spotify/raw/main/modules/DualSubs.Spotify.sgmodule ✅
+  https://github.com/DualSubs/Spotify/releases/latest/download/Spotify.sgmodule ✅
  
   - Auto Join TestFlight
  
@@ -157,7 +161,7 @@ Surge Conf
  
   https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightAccount.sgmodule
  
-  https://raw.githubusercontent.com/VirgilClyne/iRingo/main/sgmodule/TestFlight.sgmodule
+  https://github.com/NSRingo/TestFlight/releases/latest/download/TestFlight.sgmodule
  
   - TestFlight Download
  
@@ -169,19 +173,17 @@ Surge Conf
  
   - Bilibili Auto Regions、Custom Tab、Custom Index、Custom My 📱🖥️📺
  
-  https://raw.githubusercontent.com/BiliUniverse/Global/main/modules/BiliBili.Global.sgmodule ✅
- 
-  https://raw.githubusercontent.com/BiliUniverse/Enhanced/main/modules/BiliBili.Enhanced.sgmodule ✅
+  https://github.com/BiliUniverse/Enhanced/releases/latest/download/BiliBili.Enhanced.sgmodule ✅
 
-  https://raw.githubusercontent.com/BiliUniverse/ADBlock/main/modules/BiliBili.ADBlock.sgmodule ✅
+  https://github.com/BiliUniverse/Global/releases/latest/download/BiliBili.Global.sgmodule ✅
 
-  https://raw.githubusercontent.com/BiliUniverse/Redirect/main/modules/BiliBili.Redirect.sgmodule
+  https://github.com/BiliUniverse/ADBlock/raw/main/modules/BiliBili.ADBlock.sgmodule ✅
+
+  https://github.com/BiliUniverse/Redirect/raw/main/modules/BiliBili.Redirect.sgmodule
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili.sgmodule
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili_Unlock.sgmodule  ✅
-
-  - Bilibili Specify DNS 📱🖥️📺
  
   - JD/Taobao Price
 
@@ -203,13 +205,9 @@ Surge Conf
 
   - CaiYun 📱
  
-  https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Surge/Module/CYTQ.sgmodule ✅
+  https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Surge/Module/CYTQ.sgmodule
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/CaiYun.sgmodule
-
-  - SGCC 📱🖥
- 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/sgcc.sgmodule ✅
 
 ### BlockAd
 
@@ -310,3 +308,13 @@ Surge Conf
   - 360Jia 📱
  
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/360jia.sgmodule ✅
+
+## BoxJS
+
+  - iRingo
+
+  http://boxjs.com/#/sub/add/https://github.com/NSRingo/BoxJs/raw/main/iRingo.BoxJs.json
+
+  - BiliUniverse
+
+  http://boxjs.com/#/sub/add/https://github.com/BiliUniverse/BoxJs/raw/main/BiliBili.boxjs.json
