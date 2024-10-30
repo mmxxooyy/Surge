@@ -6,9 +6,7 @@ Surge Conf
 ### Manual - https://manual.nssurge.com/
 ### Manual CN (Unofficial) - https://surge.mitsea.com/overview/
 ### Understanding - https://manual.nssurge.com/book/understanding-surge/cn/
-### Help - https://nssurge.zendesk.com/
 ### Community - https://community.nssurge.com
-### DivineEngine - https://divineengine.net/more/special/surge
 
 ## Sample
 
