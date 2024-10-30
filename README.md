@@ -49,7 +49,7 @@ Surge Conf
 
   - Skip Proxy (Mac)🖥️
 
-  https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/General.mac.sgmodule
+  https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/General.mac.sgmodule ✅
  
 ### Tool
 
@@ -62,7 +62,15 @@ Surge Conf
   - BoxJS 📱🖥️📺
 
   https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule ✅
- 
+
+  - Scipt Hub
+
+  https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.surge.sgmodule
+
+  - QuantumultX to Surge Module
+
+  https://raw.githubusercontent.com/chengkongyiban/Surge/main/modules/QX_to_Surge.sgmodule
+
   - Q-search
  
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Q-Search.sgmodule
@@ -70,14 +78,6 @@ Surge Conf
   https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Q-Search.sgmodule
  
   https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Surge/Module/Qsearch.sgmodule
-  
-  - QuantumultX to Surge Module 📱🖥️
-
-  https://raw.githubusercontent.com/chengkongyiban/Surge/main/modules/QX_to_Surge.sgmodule
-
-  - Scipt Hub
-
-  https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.surge.sgmodule
  
   - Github Private Repo
 
@@ -89,7 +89,7 @@ Surge Conf
 
   - NetworkFirewall 📱
  
-  https://gist.githubusercontent.com/NobyDa/fb026a6d01fec146bd451d01b0c973d5/raw/NetworkFirewall.sgmodule ✅
+  https://gist.githubusercontent.com/NobyDa/fb026a6d01fec146bd451d01b0c973d5/raw/NetworkFirewall.sgmodule
  
   - SMS Forward
  
