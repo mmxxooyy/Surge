@@ -259,17 +259,15 @@ Surge Conf
  
   - Amap 📱
  
-  https://script.hub/file/_start_/https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/amap.snippet/_end_/amap.sgmodule?type=qx-rewrite&target=surge-module ✅
+  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
  
   https://raw.githubusercontent.com/kokoryh/Script/master/Surge/module/amap.sgmodule
-
-  https://script.hub/file/_start_/https://gitlab.com/lodepuly/vpn_tool/-/raw/main/Tool/Loon/Plugin/Amap_remove_ads.plugin/_end_/Amap_remove_ads.sgmodule?type=loon-plugin&target=surge-module
  
   https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Amap.confqx
 
   - Baidu Map
 
-  https://script.hub/file/_start_/https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/bdmap.snippet/_end_/bdmap.sgmodule?type=qx-rewrite&target=surge-module ✅
+  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
  
   - Cainiao 📱
 
