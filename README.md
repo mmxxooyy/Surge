@@ -23,9 +23,9 @@ Surge Conf
  
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/HideVPN.sgmodule ✅
  
-  - Enable ipv6 📱
+  - Enable ipv6 📱📺
  
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/IPv6.sgmodule
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/IPv6.sgmodule ✅
  
   - Log Level Verbose
  
@@ -39,13 +39,17 @@ Surge Conf
  
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/TunOnly.sgmodule
  
-  - Skip Proxy 📱🖥️
+  - Skip Proxy 📱
  
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/SkipProxy.module ✅
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/SkipProxy.module
  
-  https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/General.sgmodule
+  https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/General.sgmodule ✅
  
   https://raw.githubusercontent.com/mieqq/mieqq/master/skip-proxy-lists.sgmodule
+
+  - Skip Proxy (Mac)🖥️
+
+  https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/General.mac.sgmodule
  
 ### Tool
 
