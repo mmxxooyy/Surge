@@ -1,6 +1,0 @@
-#!name=AD Block
-#!desc=Block AD
-
-[Rule]
-# > 京东  去启动广告
-URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$,REJECT-TINYGIF
