@@ -213,30 +213,28 @@ Surge Conf
  
   https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/HTTPDNS.Block.sgmodule ✅
 
-  - Mine
-
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/AdBlock.sgmodule
-
-  - blackmatrix7 Advertising Lite
- 
-  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
-
-  - AdSense 📱
- 
-  https://raw.githubusercontent.com/app2smile/rules/master/module/adsense.sgmodule ✅
-
   - AdSense 📱🖥️
 
   https://script.hub/file/_start_/https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BlockAdvertisers.plugin/_end_/BlockAdvertisers.sgmodule.txt?type=loon-plugin&target=surge-module&del=true ✅
 
-  - yfamily AdBlock 📱
+  https://raw.githubusercontent.com/app2smile/rules/master/module/adsense.sgmodule ✅
 
-  https://yfamily.vercel.app/module/AdBlock.module ✅
+  - Yfamily AdBlock 📱
+
+  https://whatshub.top/module/AdBlock.module ✅
  
   - App AdBlock
  
   https://github.com/zqzess/rule_for_quantumultX/blob/master/Surge/Module/AdBlock.sgmodule
+
+  - blackmatrix7 Advertising Lite
  
+  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
+  
+  - My AdBlock
+  
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/AdBlock.sgmodule
+
   - Special UserAgent
 
   https://raw.githubusercontent.com/xOS/Config/Her/Module/iOS/SpecialUserAgent.sgmodule
@@ -261,9 +259,9 @@ Surge Conf
 
   https://script.hub/file/_start_/https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf/_end_/Cainiao.sgmodule?type=qx-rewrite&target=surge-module&del=true ✅
 
+  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%8F%9C%E9%B8%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule
+
   https://raw.githubusercontent.com/Keywos/rule/main/module/Cainiao.sgmodule
- 
-  https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.confqx
  
   - ZhiHu
  
@@ -273,6 +271,8 @@ Surge Conf
  
   - Weibo
  
+  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%BE%AE%E5%8D%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule
+  
   https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/weibo/weibo.sgmodule
  
   https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Weibo/Moore/Weibo.sgmodule
@@ -280,10 +280,14 @@ Surge Conf
   https://raw.githubusercontent.com/zmqcherish/proxy-script/main/weibo.sgmodule
  
   - SMZDM 📱
+
+  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
  
-  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule ✅
+  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule
  
-  - Tieba
+  - Tieba 📱
+
+  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%B4%B4%E5%90%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
  
   https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.sgmodule
   
@@ -304,6 +308,8 @@ Surge Conf
   - 360Jia 📱
  
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/360jia.sgmodule ✅
+
+  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/360%E6%91%84%E5%83%8F%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule
 
 ## BoxJS
 
