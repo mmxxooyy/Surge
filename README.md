@@ -230,10 +230,6 @@ Surge Conf
   - blackmatrix7 Advertising Lite
  
   https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
-  
-  - My AdBlock
-  
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/AdBlock.sgmodule
 
   - Special UserAgent
 
