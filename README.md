@@ -65,7 +65,7 @@ Surge Conf
 
   https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule ✅
 
-  - Scipt Hub
+  - Scipt Hub 📱
 
   https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.surge.sgmodule
 
@@ -109,7 +109,7 @@ Surge Conf
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel/StreamCheck_Lite.sgmodule
 
-  - Network Info 📱
+  - Network Info
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel/NetworkInfo.sgmodule
 
@@ -245,16 +245,6 @@ Surge Conf
 
   https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/Upgrade/Upgrade.sgmodule
  
-  - Bilibili
-
-  https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.sgmodule
- 
-  https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/bilibili/bilibili_big.sgmodule
- 
-  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.sgmodule
- 
-  https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Surge/Module/bilibili_adBlock.sgmodule
- 
   - Amap 📱
  
   https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
@@ -296,6 +286,16 @@ Surge Conf
   - Tieba
  
   https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.sgmodule
+  
+  - Bilibili
+
+  https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.sgmodule
+ 
+  https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/bilibili/bilibili_big.sgmodule
+ 
+  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.sgmodule
+ 
+  https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Surge/Module/bilibili_adBlock.sgmodule
  
   - 369 📱
  
