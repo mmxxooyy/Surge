@@ -202,8 +202,6 @@ Surge Conf
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/TickTick.sgmodule
 
   - CaiYun 📱
- 
-  https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Surge/Module/CYTQ.sgmodule
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/CaiYun.sgmodule
 
@@ -253,7 +251,9 @@ Surge Conf
  
   - Cainiao 📱
 
-  https://script.hub/file/_start_/https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf/_end_/Cainiao.sgmodule?type=qx-rewrite&target=surge-module&del=true ✅
+  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%8F%9C%E9%B8%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
+
+  https://script.hub/file/_start_/https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf/_end_/Cainiao.sgmodule?type=qx-rewrite&target=surge-module&del=true
 
   https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%8F%9C%E9%B8%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule
 
