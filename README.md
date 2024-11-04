@@ -95,7 +95,7 @@ Surge Conf
  
   - SMS Forward
  
-  https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sms-forward/sms-forward.sgmodule
+  https://raw.githubusercontent.com/ChinaTelecomOperators/SMSForward/main/sms-forward.sgmodule
  
 ### Panel
 
