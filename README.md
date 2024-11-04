@@ -175,9 +175,9 @@ Surge Conf
 
   https://github.com/BiliUniverse/Global/releases/latest/download/BiliBili.Global.sgmodule ✅
 
-  https://github.com/BiliUniverse/ADBlock/raw/main/modules/BiliBili.ADBlock.sgmodule ✅
+  https://github.com/BiliUniverse/ADBlock/releases/latest/download/BiliBili.ADBlock.sgmodule ✅
 
-  https://github.com/BiliUniverse/Redirect/raw/main/modules/BiliBili.Redirect.sgmodule
+  https://github.com/BiliUniverse/Redirect/releases/latest/download/BiliBili.Redirect.sgmodule
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili.sgmodule
 
