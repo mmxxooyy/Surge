@@ -1,0 +1,6 @@
+#!name=No Default Route
+#!desc=No Default Route 兼容模式
+#!system=ios
+
+[General]
+compatibility-mode = 5
