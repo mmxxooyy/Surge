@@ -125,6 +125,10 @@ Surge Conf
 
 ### App
 
+  - iRingo - Siri 📱🖥️
+
+  https://github.com/NSRingo/Siri/releases/latest/download/iRingo.Siri.sgmodule ✅
+
   - iRingo - Weather 📱
 
   https://github.com/NSRingo/WeatherKit/releases/latest/download/iRingo.WeatherKit.sgmodule ✅
@@ -133,17 +137,13 @@ Surge Conf
 
   https://github.com/NSRingo/GeoServices/releases/latest/download/iRingo.Location.sgmodule ✅
 
-  - iRingo - Map 📱🖥️
+  - iRingo - Map 📱
 
   https://github.com/NSRingo/GeoServices/releases/latest/download/iRingo.Maps.sgmodule ✅
 
-  - iRingo - Siri 📱🖥️
-
-  https://github.com/NSRingo/Siri/releases/latest/download/iRingo.Siri.sgmodule ✅
-
   - iRingo - News 🖥️
 
-  https://github.com/NSRingo/News/releases/latest/download/iRingo.News.sgmodule ✅
+  https://github.com/NSRingo/News/releases/latest/download/iRingo.News.sgmodule
 
   - Dualsub - Universal
 
