@@ -23,7 +23,7 @@ Surge Conf
 
   - Hide VPN 📱
  
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/HideVPN.sgmodule ✅
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/HideVPN.sgmodule
  
   - Enable ipv6 📱📺
  
@@ -36,8 +36,12 @@ Surge Conf
   - DNS for Router and Companys
  
   https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/DNS.sgmodule
+
+  - No Default Route
  
-  - Tun Only
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/No_Default_Route.sgmodule
+ 
+  - Tun Only (Old Version)
  
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/TunOnly.sgmodule
  
@@ -55,15 +59,15 @@ Surge Conf
  
 ### Tool
 
+  - BoxJS 📱🖥️📺
+
+  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule ✅
+
   - SubStore 📱🖥️
  
   https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Surge.sgmodule
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Sub-Store.sgmodule
- 
-  - BoxJS 📱🖥️📺
-
-  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule ✅
 
   - Scipt Hub 📱
 
@@ -123,17 +127,25 @@ Surge Conf
  
 ### App
 
-  - iRingo - Weather
- 
-  https://github.com/NSRingo/WeatherKit/releases/latest/download/WeatherKit.sgmodule
+  - iRingo - Weather 📱
+
+  https://github.com/NSRingo/WeatherKit/releases/latest/download/iRingo.WeatherKit.sgmodule ✅
  
   - iRingo - Location 📱🖥️
  
-  https://github.com/NSRingo/GeoServices/releases/latest/download/Location.sgmodule ✅
+  https://github.com/NSRingo/GeoServices/releases/latest/download/iRingo.Location.sgmodule ✅
  
   - iRingo - Map 📱🖥️
  
-  https://github.com/NSRingo/GeoServices/releases/latest/download/Maps.sgmodule ✅
+  https://github.com/NSRingo/GeoServices/releases/latest/download/iRingo.Maps.sgmodule ✅
+
+  - iRingo - Siri 📱🖥️
+ 
+  https://github.com/NSRingo/Siri/releases/latest/download/iRingo.Siri.sgmodule ✅
+
+  - iRingo - News 🖥️
+ 
+  https://github.com/NSRingo/News/releases/latest/download/iRingo.News.sgmodule ✅
  
   - Dualsub - Universal
  
