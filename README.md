@@ -231,6 +231,8 @@ Surge Conf
 
   - AdSense 📱🖥️
 
+  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%B9%BF%E5%91%8A%E5%B9%B3%E5%8F%B0%E6%8B%A6%E6%88%AA%E5%99%A8.beta.sgmodule ✅
+
   https://script.hub/file/_start_/https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BlockAdvertisers.plugin/_end_/BlockAdvertisers.sgmodule.txt?type=loon-plugin&target=surge-module&del=true ✅
 
   https://raw.githubusercontent.com/app2smile/rules/master/module/adsense.sgmodule ✅
@@ -273,8 +275,6 @@ Surge Conf
 
   https://script.hub/file/_start_/https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf/_end_/Cainiao.sgmodule?type=qx-rewrite&target=surge-module&del=true
 
-  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%8F%9C%E9%B8%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule
-
   https://raw.githubusercontent.com/Keywos/rule/main/module/Cainiao.sgmodule
 
   - ZhiHu
@@ -315,15 +315,19 @@ Surge Conf
 
   https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Surge/Module/bilibili_adBlock.sgmodule
 
+  - 12306 📱
+
+  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/12306%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
+
   - 369 📱
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/369Bus.sgmodule ✅
 
   - 360Jia 📱
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/360jia.sgmodule ✅
+  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/360%E6%91%84%E5%83%8F%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
 
-  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/360%E6%91%84%E5%83%8F%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/360jia.sgmodule
 
 ## BoxJS
 
