@@ -301,19 +301,13 @@ Surge Conf
 
   - Tieba 📱
 
-  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%B4%B4%E5%90%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
+  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%B4%B4%E5%90%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule
 
   https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.sgmodule
 
-  - Bilibili
+  - Goofish 📱
 
-  https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.sgmodule
-
-  https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/bilibili/bilibili_big.sgmodule
-
-  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.sgmodule
-
-  https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Surge/Module/bilibili_adBlock.sgmodule
+  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%97%B2%E9%B1%BC%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
 
   - 12306 📱
 
@@ -328,6 +322,16 @@ Surge Conf
   https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/360%E6%91%84%E5%83%8F%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/360jia.sgmodule
+
+  - Bilibili
+
+  https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.sgmodule
+
+  https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/bilibili/bilibili_big.sgmodule
+
+  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.sgmodule
+
+  https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Surge/Module/bilibili_adBlock.sgmodule
 
 ## BoxJS
 
