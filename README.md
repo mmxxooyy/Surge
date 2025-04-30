@@ -147,9 +147,9 @@ Surge Conf
 
   - Dualsub - Universal
 
-  https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Dualsub.sgmodule
-
   https://github.com/DualSubs/Universal/releases/latest/download/Universal.sgmodule
+
+  https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Dualsub.sgmodule
 
   - Dualsub - Spotify 📱
 
@@ -179,6 +179,10 @@ Surge Conf
 
   https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/sgmodule/Cloudflare.1.1.1.1.sgmodule
 
+  - WeChat
+
+  https://raw.githubusercontent.com/LD2J0618/Surge-Pro//main/SGMODULE/wechat.sgmodule
+
   - Bilibili Auto Regions、Custom Tab、Custom Index、Custom My 📱🖥️📺
 
   https://github.com/BiliUniverse/Enhanced/releases/latest/download/BiliBili.Enhanced.sgmodule ✅
@@ -193,11 +197,11 @@ Surge Conf
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili_Unlock.sgmodule  ✅
 
-  - JD/Taobao Price
+  - JD/Taobao Price 📱
 
+  https://raw.githubusercontent.com/githubdulong/Script/master/Surge/jd_price2.sgmodule ✅
+  
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/JD_Price.sgmodule
-
-  https://raw.githubusercontent.com/zwf234/rules/master/Surge/price.sgmodule
 
   https://raw.githubusercontent.com/HotKids/Rules/master/Surge/Module/Price.sgmodule
 
@@ -214,6 +218,10 @@ Surge Conf
   - CaiYun 📱
 
   https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/CaiYun.sgmodule
+
+  - 10010 Cookie 📱
+
+  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/10010_Cookie.sgmodule
 
 ### BlockAd
 
