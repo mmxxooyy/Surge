@@ -23,73 +23,73 @@ Surge Conf
 
   - Hide VPN 📱
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/HideVPN.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/HideVPN.sgmodule
 
   - Enable ipv6 📱📺
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/IPv6.sgmodule ✅
+  https://github.com/mmxxooyy/Surge/raw/main/Module/IPv6.sgmodule ✅
 
   - Log Level Verbose
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Verbose_Log.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/Verbose_Log.sgmodule
 
   - DNS for Router and Companys
 
-  https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/DNS.sgmodule
+  https://github.com/VirgilClyne/GetSomeFries/raw/main/sgmodule/DNS.sgmodule
 
   - No Default Route
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/No_Default_Route.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/No_Default_Route.sgmodule
 
   - Tun Only (Old Version)
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/TunOnly.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/TunOnly.sgmodule
  
   - Skip Proxy 📱🖥️
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/SkipProxy.module
+  https://github.com/mmxxooyy/Surge/raw/main/Module/SkipProxy.module
 
-  https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/General.sgmodule ✅
+  https://github.com/VirgilClyne/GetSomeFries/raw/main/sgmodule/General.sgmodule ✅
 
-  https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/General.mac.sgmodule ✅
+  https://github.com/VirgilClyne/GetSomeFries/raw/main/sgmodule/General.mac.sgmodule ✅
 
-  https://raw.githubusercontent.com/mieqq/mieqq/master/skip-proxy-lists.sgmodule
+  https://github.com/mieqq/mieqq/raw/master/skip-proxy-lists.sgmodule
 
 ### Tool
 
   - BoxJS 📱🖥️📺
 
-  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule ✅
+  https://github.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.surge.sgmodule ✅
 
   - SubStore 📱🖥️
  
-  https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Surge.sgmodule
+  https://github.com/sub-store-org/Sub-Store/raw/master/config/Surge.sgmodule
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Sub-Store.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/Sub-Store.sgmodule
 
   - Scipt Hub 📱
 
-  https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.surge.sgmodule
+  https://github.com/Script-Hub-Org/Script-Hub/raw/main/modules/script-hub.surge.sgmodule
 
   - QuantumultX to Surge Module
 
-  https://raw.githubusercontent.com/chengkongyiban/Surge/main/modules/QX_to_Surge.sgmodule
+  https://github.com/chengkongyiban/Surge/raw/main/modules/QX_to_Surge.sgmodule
 
   - Q-search
  
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Q-Search.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/Q-Search.sgmodule
  
-  https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Q-Search.sgmodule
+  https://github.com/Neurogram-R/Surge/raw/master/module/Q-Search.sgmodule
  
-  https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Surge/Module/Qsearch.sgmodule
+  https://github.com/zqzess/rule_for_quantumultX/raw/master/Surge/Module/Qsearch.sgmodule
  
   - Github Private Repo
 
-  https://raw.githubusercontent.com/Peng-YM/QuanX/master/Rewrites/GithubPrivate/github-private-repo.sgmodule
+  https://github.com/Peng-YM/QuanX/raw/master/Rewrites/GithubPrivate/github-private-repo.sgmodule
  
   - Auto Policy
  
-  https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/AutoPolicy/auto-policy.sgmodule
+  https://github.com/Peng-YM/QuanX/raw/master/Tools/AutoPolicy/auto-policy.sgmodule
 
   - NetworkFirewall 📱
 
@@ -97,31 +97,31 @@ Surge Conf
 
   - SMS Forward
 
-  https://raw.githubusercontent.com/ChinaTelecomOperators/SMSForward/main/sms-forward.sgmodule
+  https://github.com/ChinaTelecomOperators/SMSForward/raw/main/sms-forward.sgmodule
 
 ### Panel
 
   - Net ISP 📱
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel/NetISP.sgmodule ✅
+  https://github.com/mmxxooyy/Surge/raw/main/Module/Panel/NetISP.sgmodule ✅
 
-  https://raw.githubusercontent.com/Keywos/rule/main/module/NetIspmini.sgmodule
+  https://github.com/Keywos/rule/raw/main/script/netisp/netisp.sgmodule
 
   - StreamCheck Lite 📱
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel/StreamCheck_Lite.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/Panel/StreamCheck_Lite.sgmodule
 
   - Network Info
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Panel/NetworkInfo.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/Panel/NetworkInfo.sgmodule
 
-  https://raw.githubusercontent.com/Nebulosa-Cat/Surge/main/Panel/Network-Info/Network-Info.sgmodule
+  https://github.com/Nebulosa-Cat/Surge/raw/main/Panel/Network-Info/Network-Info.sgmodule
 
-  https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Network-Info/Moore/Network-Info.sgmodule
+  https://github.com/Rabbit-Spec/Surge/raw/Master/Module/Panel/Network-Info/Moore/Network-Info.sgmodule
 
   - Connectivity Test
 
-  https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Connectivity_Test.sgmodule
+  https://github.com/getsomecat/GetSomeCats/raw/Surge/modules/Connectivity_Test.sgmodule
 
 ### App
 
@@ -149,7 +149,7 @@ Surge Conf
 
   https://github.com/DualSubs/Universal/releases/latest/download/Universal.sgmodule
 
-  https://raw.githubusercontent.com/Neurogram-R/Surge/master/module/Dualsub.sgmodule
+  https://github.com/Neurogram-R/Surge/raw/master/module/Dualsub.sgmodule
 
   - Dualsub - Spotify 📱
 
@@ -157,31 +157,31 @@ Surge Conf
 
   - Auto Join TestFlight
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Auto_join_TF.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/Auto_join_TF.sgmodule
 
-  https://raw.githubusercontent.com/DecoAri/Module/main/Surge/Auto_join_TF.sgmodule
+  https://github.com/DecoAri/Module/raw/main/Surge/Auto_join_TF.sgmodule
 
   - Auto Join TestFlight - Get Account Info
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Auto_join_TF_ID.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/Auto_join_TF_ID.sgmodule
 
   - TestFlight Account (include TestFlight Download)
 
-  https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightAccount.sgmodule
+  https://github.com/NobyDa/Script/raw/master/Surge/Module/TestFlightAccount.sgmodule
 
   https://github.com/NSRingo/TestFlight/releases/latest/download/TestFlight.sgmodule
 
   - TestFlight Download
 
-  https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightDownload.sgmodule
+  https://github.com/NobyDa/Script/raw/master/Surge/Module/TestFlightDownload.sgmodule
 
   - Cloudflare WARP
 
-  https://raw.githubusercontent.com/VirgilClyne/Cloudflare/main/sgmodule/Cloudflare.1.1.1.1.sgmodule
+  https://github.com/Auraflare/1.1.1.1/raw/main/modules/Cloudflare.1.1.1.1.sgmodule
 
   - WeChat
 
-  https://raw.githubusercontent.com/LD2J0618/Surge-Pro//main/SGMODULE/wechat.sgmodule
+  https://github.com/LD2J0618/Surge-Pro/raw/main/SGMODULE/wechat.sgmodule
 
   - Bilibili Auto Regions、Custom Tab、Custom Index、Custom My 📱🖥️📺
 
@@ -193,35 +193,33 @@ Surge Conf
 
   https://github.com/BiliUniverse/Redirect/releases/latest/download/BiliBili.Redirect.sgmodule
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/Bilibili.sgmodule
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/Bilibili_Unlock.sgmodule  ✅
+  https://github.com/mmxxooyy/Surge/raw/main/Module/Bilibili_Unlock.sgmodule  ✅
 
   - JD/Taobao Price 📱
 
-  https://raw.githubusercontent.com/githubdulong/Script/master/Surge/jd_price2.sgmodule ✅
+  https://github.com/githubdulong/Script/raw/master/Surge/jd_price2.sgmodule ✅
   
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/JD_Price.sgmodule
-
-  https://raw.githubusercontent.com/HotKids/Rules/master/Surge/Module/Price.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/JD_Price.sgmodule
 
   - Emby Premiere 📱
 
-  https://raw.githubusercontent.com/rartv/SurgeScript/main/EmbyPremiere/EmbyPremiere.sgmodule ✅
+  https://github.com/rartv/SurgeScript/raw/main/EmbyPremiere/EmbyPremiere.sgmodule ✅
 
-  https://raw.githubusercontent.com/chavyleung/scripts/master/emby/emby.sgmodule
+  https://github.com/chavyleung/scripts/raw/master/emby/emby.sgmodule
 
   - TickTick
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/TickTick.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/TickTick.sgmodule
 
   - CaiYun 📱
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/CaiYun.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/CaiYun.sgmodule
 
   - 10010 Cookie 📱
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/10010_Cookie.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/10010_Cookie.sgmodule
 
 ### BlockAd
 
