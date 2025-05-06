@@ -331,6 +331,10 @@ Surge Conf
 
   https://github.com/zqzess/rule_for_quantumultX/raw/master/Surge/Module/bilibili_adBlock.sgmodule
 
+  - Sam's Club 📱
+
+  https://github.com/mmxxooyy/Surge/raw/main/Module/SamsClub_AdBlock.sgmodule ✅
+
 ## BoxJS
 
   - iRingo
