@@ -225,15 +225,15 @@ Surge Conf
 
   - Block HTTPDNS 📱🖥️
 
-  https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/sgmodule/HTTPDNS.Block.sgmodule ✅
+  https://github.com/VirgilClyne/GetSomeFries/raw/main/sgmodule/HTTPDNS.Block.sgmodule ✅
 
   - AdSense 📱🖥️
 
-  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%B9%BF%E5%91%8A%E5%B9%B3%E5%8F%B0%E6%8B%A6%E6%88%AA%E5%99%A8.beta.sgmodule ✅
+  https://github.com/QingRex/LoonKissSurge/raw/main/Surge/Beta/%E5%B9%BF%E5%91%8A%E5%B9%B3%E5%8F%B0%E6%8B%A6%E6%88%AA%E5%99%A8.beta.sgmodule ✅
 
   https://script.hub/file/_start_/https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BlockAdvertisers.plugin/_end_/BlockAdvertisers.sgmodule.txt?type=loon-plugin&target=surge-module&del=true ✅
 
-  https://raw.githubusercontent.com/app2smile/rules/master/module/adsense.sgmodule ✅
+  https://github.com/app2smile/rules/raw/master/module/adsense.sgmodule ✅
 
   - Yfamily AdBlock 📱
 
@@ -241,95 +241,95 @@ Surge Conf
 
   - App AdBlock
 
-  https://github.com/zqzess/rule_for_quantumultX/blob/master/Surge/Module/AdBlock.sgmodule
+  https://github.com/zqzess/rule_for_quantumultX/raw/master/Surge/Module/AdBlock.sgmodule
 
   - blackmatrix7 Advertising Lite
 
-  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
+  https://github.com/blackmatrix7/ios_rule_script/raw/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
 
   - Special UserAgent
 
-  https://raw.githubusercontent.com/xOS/Config/Her/Module/iOS/SpecialUserAgent.sgmodule
+  https://github.com/xOS/Config/raw/Her/Module/iOS/SpecialUserAgent.sgmodule
 
   - Block App Upgrade
 
-  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/Upgrade/Upgrade.sgmodule
+  https://github.com/blackmatrix7/ios_rule_script/raw/master/rewrite/Surge/Upgrade/Upgrade.sgmodule
 
   - Amap 📱
 
-  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
+  https://github.com/QingRex/LoonKissSurge/raw/main/Surge/Beta/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
 
-  https://raw.githubusercontent.com/kokoryh/Script/master/Surge/module/amap.sgmodule
+  https://github.com/kokoryh/Script/raw/master/Surge/module/amap.sgmodule
 
-  https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Amap.confqx
+  https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Amap.confqx
 
   - Baidu Map
 
-  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
+  https://github.com/QingRex/LoonKissSurge/raw/main/Surge/Beta/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
 
   - Cainiao 📱
 
-  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%8F%9C%E9%B8%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
+  https://github.com/QingRex/LoonKissSurge/raw/main/Surge/Beta/%E8%8F%9C%E9%B8%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
 
   https://script.hub/file/_start_/https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf/_end_/Cainiao.sgmodule?type=qx-rewrite&target=surge-module&del=true
 
-  https://raw.githubusercontent.com/Keywos/rule/main/module/Cainiao.sgmodule
+  https://github.com/Keywos/rule/raw/main/module/Cainiao.sgmodule
 
   - ZhiHu
 
-  https://raw.githubusercontent.com/app2smile/rules/master/module/zhihu.sgmodule
+  https://github.com/app2smile/rules/raw/master/module/zhihu.sgmodule
 
-  https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/zhihu/zhihu.sgmodule
+  https://github.com/yjqiang/surge_scripts/raw/main/modules/zhihu/zhihu.sgmodule
 
   - Weibo
 
-  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%BE%AE%E5%8D%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule
+  https://github.com/QingRex/LoonKissSurge/raw/main/Surge/Beta/%E5%BE%AE%E5%8D%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule
 
-  https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/weibo/weibo.sgmodule
+  https://github.com/yjqiang/surge_scripts/raw/main/modules/weibo/weibo.sgmodule
 
-  https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Weibo/Moore/Weibo.sgmodule
+  https://github.com/Rabbit-Spec/Surge/raw/Master/Module/Spec/Weibo/Moore/Weibo.sgmodule
 
-  https://raw.githubusercontent.com/zmqcherish/proxy-script/main/weibo.sgmodule
+  https://github.com/zmqcherish/proxy-script/raw/main/weibo.sgmodule
 
   - SMZDM 📱
 
-  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
+  https://github.com/QingRex/LoonKissSurge/raw/main/Surge/Beta/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
 
-  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.sgmodule
+  https://github.com/blackmatrix7/ios_rule_script/raw/master/script/smzdm/smzdm_remove_ads.sgmodule
 
   - Tieba 📱
 
-  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%B4%B4%E5%90%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule
+  https://github.com/QingRex/LoonKissSurge/raw/main/Surge/Beta/%E8%B4%B4%E5%90%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule
 
-  https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.sgmodule
+  https://github.com/app2smile/rules/raw/master/module/tieba.sgmodule
 
   - Goofish 📱
 
-  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%97%B2%E9%B1%BC%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
+  https://github.com/QingRex/LoonKissSurge/raw/main/Surge/Beta/%E9%97%B2%E9%B1%BC%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
 
   - 12306 📱
 
-  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/12306%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
+  https://github.com/QingRex/LoonKissSurge/raw/main/Surge/Beta/12306%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
 
   - 369 📱
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/369Bus.sgmodule ✅
+  https://github.com/mmxxooyy/Surge/raw/main/Module/369Bus.sgmodule ✅
 
   - 360Jia 📱
 
-  https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/360%E6%91%84%E5%83%8F%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
+  https://github.com/QingRex/LoonKissSurge/raw/main/Surge/Beta/360%E6%91%84%E5%83%8F%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule ✅
 
-  https://raw.githubusercontent.com/mmxxooyy/Surge/main/Module/360jia.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/360jia.sgmodule
 
   - Bilibili
 
-  https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.sgmodule
+  https://github.com/app2smile/rules/raw/master/module/bilibili.sgmodule
 
-  https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/bilibili/bilibili_big.sgmodule
+  https://github.com/yjqiang/surge_scripts/raw/main/modules/bilibili/bilibili_big.sgmodule
 
-  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.sgmodule
+  https://github.com/blackmatrix7/ios_rule_script/raw/master/script/bilibili/bilibili_plus.sgmodule
 
-  https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Surge/Module/bilibili_adBlock.sgmodule
+  https://github.com/zqzess/rule_for_quantumultX/raw/master/Surge/Module/bilibili_adBlock.sgmodule
 
 ## BoxJS
 
