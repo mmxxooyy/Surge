@@ -1,9 +1,8 @@
 #!name=369Bus
 #!desc=369 出行去广告
 
-[Script]
-# 去开屏广告
-Splash Ad = type=http-response,pattern=^https:\/\/api\.369cx\.cn\/v2\/Splash\/GetSplashAd,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/mmxxooyy/Surge/main/Script/369cx_splash.js
+[Body Rewrite]
+http-response-jq ^https:\/\/api\.369cx\.cn\/v2\/Splash\/GetSplashAd '.result.picUrl = ""'
 
 [MITM]
 hostname = %APPEND% api.369cx.cn
