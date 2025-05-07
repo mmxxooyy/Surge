@@ -1,5 +1,5 @@
-#!name=林肯之道去广告
-#!desc=移除开屏广告
+#!name=Lincoln Way Remove AD
+#!desc=Remove Splash AD
 
 [Body Rewrite]
 http-response-jq ^https:\/\/cn\.api\.mps\.ford\.com\.cn\/api\/app-init\/v1\/splashscreen\/list '.data = []'
