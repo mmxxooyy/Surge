@@ -335,6 +335,10 @@ Surge Conf
 
   https://github.com/mmxxooyy/Surge/raw/main/Module/SamsClub_AdBlock.sgmodule ✅
 
+  - Lincoln Way 📱
+
+  https://github.com/mmxxooyy/Surge/raw/main/Module/LincolnWay_AbBlock.sgmodule ✅
+
 ## BoxJS
 
   - iRingo
