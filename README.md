@@ -348,3 +348,17 @@ Surge Conf
   - BiliUniverse
 
   http://boxjs.com/#/sub/add/https://github.com/BiliUniverse/BoxJs/raw/main/BiliBili.boxjs.json
+
+## IconSet
+
+  https://github.com/Koolson/Qure/tree/master/IconSet/Color
+
+  https://github.com/Orz-3/mini/tree/master/Color
+
+  https://github.com/fmz200/wool_scripts/tree/main/icons
+
+  https://github.com/lige47/QuanX-icon-rule/tree/main/icon
+
+  https://github.com/tugepaopao/Image-Storage/tree/master/icon
+
+  https://github.com/erdongchanyo/icon/tree/main
