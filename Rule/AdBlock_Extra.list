@@ -159,3 +159,5 @@ DOMAIN,ad.jia.360.cn
 # 一加手机系统更新检测
 DOMAIN,otafsc.h2os.com
 DOMAIN,otac.h2os.com
+# 农行防代理检测
+DOMAIN,msmp.abchina.com.cn
