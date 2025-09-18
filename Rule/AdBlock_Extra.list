@@ -161,3 +161,5 @@ DOMAIN,otafsc.h2os.com
 DOMAIN,otac.h2os.com
 # 农行防代理检测
 DOMAIN,msmp.abchina.com.cn
+# DBeaver 信息收集
+DOMAIN,stats.dbeaver.com
