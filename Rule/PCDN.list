@@ -12,7 +12,6 @@ DOMAIN-SUFFIX, xycdn.com
 
 # 视频平台 CDN
 DOMAIN-SUFFIX, mcdn.bilivideo.cn
-DOMAIN-SUFFIX, szbdyd.com
 IP-CIDR, 203.107.1.1/24
 DOMAIN-SUFFIX, onethingpcs.com
 DOMAIN-SUFFIX, pcdn.xmcdn.com
