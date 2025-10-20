@@ -1,5 +1,6 @@
 # NAME: Binance
 
+USER-AGENT,Binance*
 USER-AGENT,BNCAlamofire*
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,binance.cloud
