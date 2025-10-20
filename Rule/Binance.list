@@ -52,6 +52,21 @@ IP-CIDR,54.150.106.1/32
 IP-CIDR,13.248.135.87/32
 IP-CIDR,47.107.32.31/32
 
+DOMAIN,m.api.forter.com
+DOMAIN,addfd325e6e3.cdn4.forter.com
+DOMAIN,crt.r2m01.amazontrust.com
+DOMAIN,crt.rootca1.amazontrust.com
+DOMAIN,crt.rootg2.amazontrust.com
+DOMAIN,d3sknckuh1o9tg.cloudfront.net
+DOMAIN,public-1306379396.file.myqcloud.com
+DOMAIN,static-file-1306379396.file.myqcloud.com
+DOMAIN,domain-config-1306379396.file.myqcloud.com
+DOMAIN,b2d8207c-e08a-45cd-bc97-268da85016d2-addfd325e6e3.cdn.forter.com
+DOMAIN,bin-prod-new-websocket-alb-1463526464.ap-northeast-1.elb.amazonaws.com
+DOMAIN,aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com
+
 USER-AGENT,Binance*
 USER-AGENT,BNCAlamofire*
 DOMAIN-SUFFIX,tylhh.net
+IP-CIDR,39.108.230.190/32
+IP-CIDR,47.107.72.24/32
