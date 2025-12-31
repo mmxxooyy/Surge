@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,amazon.cn
 
 # Amy
 DOMAIN-SUFFIX,amytele.net
+IP-CIDR,161.129.35.81/32
 
 # baozimh
 DOMAIN-SUFFIX,baozimh.com
