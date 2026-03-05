@@ -185,15 +185,15 @@ Surge Conf
 
   - Bilibili Auto Regions、Custom Tab、Custom Index、Custom My 📱🖥️📺
 
-  https://github.com/BiliUniverse/Enhanced/releases/latest/download/BiliBili.Enhanced.sgmodule ✅
+  https://github.com/BiliUniverse/Enhanced/releases/latest/download/BiliBili.Enhanced.sgmodule
 
-  https://github.com/BiliUniverse/Global/releases/latest/download/BiliBili.Global.sgmodule ✅
+  https://github.com/BiliUniverse/Global/releases/latest/download/BiliBili.Global.sgmodule
 
-  https://github.com/BiliUniverse/ADBlock/releases/latest/download/BiliBili.ADBlock.sgmodule ✅
+  https://github.com/BiliUniverse/ADBlock/releases/latest/download/BiliBili.ADBlock.sgmodule
 
   https://github.com/BiliUniverse/Redirect/releases/latest/download/BiliBili.Redirect.sgmodule
 
-  https://github.com/mmxxooyy/Surge/raw/main/Module/Bilibili.sgmodule
+  https://github.com/mmxxooyy/Surge/raw/main/Module/Bilibili.sgmodule ✅
 
   https://github.com/mmxxooyy/Surge/raw/main/Module/Bilibili_Unlock.sgmodule  ✅
 
