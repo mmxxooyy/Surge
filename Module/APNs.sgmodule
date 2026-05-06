@@ -5,6 +5,7 @@
 [General]
 # > 包含所有的网络请求
 include-all-networks = true
+# > 让 Surge 接管 Apple Push Notification service (APNs) 相关请求
 include-apns = true
 
 [Rule]
