@@ -19,9 +19,6 @@ DOMAIN-SUFFIX,mountain.pm
 # TURGAME
 DOMAIN-SUFFIX,turgame.com
 
-# Grab
-DOMAIN-SUFFIX,grab.com
-
 # Amazon CN
 DOMAIN-SUFFIX,amazon.cn
 
@@ -45,3 +42,6 @@ DOMAIN-SUFFIX,tfdh.top
 
 # AI
 DOMAIN-SUFFIX,muyuan.do
+DOMAIN,api.78code.cc
+DOMAIN,api.duckcoding.ai
+DOMAIN,api-slb.micuapi.ai
