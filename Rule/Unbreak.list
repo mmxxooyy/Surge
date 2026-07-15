@@ -5,8 +5,8 @@ DOMAIN,aiot-rpc.aqara.cn
 # Alipay Face
 DOMAIN,collect.alipay.com
 
-# AList
-DOMAIN,alist.xiaoya.pro
+# Remote Control
+DOMAIN-SUFFIX,jumpdesktop.com
 
 # Globe
 DOMAIN-SUFFIX,globe.com.ph
