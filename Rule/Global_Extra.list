@@ -1,3 +1,4 @@
 # NAME: Global Extra
 DOMAIN-SUFFIX,xns.one
 DOMAIN-SUFFIX,z.ai
+URL-REGEX,^https://totheglory\.im
