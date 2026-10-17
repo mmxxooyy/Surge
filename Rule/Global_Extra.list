@@ -2,4 +2,3 @@
 DOMAIN-SUFFIX,xns.one
 DOMAIN-SUFFIX,z.ai
 AND,((DOMAIN-SUFFIX,totheglory.im),(PROTOCOL,HTTPS))
-DOMAIN-SUFFIX,totheglory.im
