@@ -1,0 +1,13 @@
+# Private Cloud Compute
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+# bootstrap
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,apple-relay.akamaized.net
+DOMAIN,apple-carry-relay.cloudflare.com
+# Apple region determination
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,api-siri-prod.apple.com
+DOMAIN-SUFFIX,siri.apple.com
