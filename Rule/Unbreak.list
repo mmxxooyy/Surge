@@ -8,9 +8,6 @@ DOMAIN,collect.alipay.com
 # Remote Control
 DOMAIN-SUFFIX,jumpdesktop.com
 
-# Globe
-DOMAIN-SUFFIX,globe.com.ph
-
 # Z Book
 DOMAIN-SUFFIX,carbon.pm
 DOMAIN-SUFFIX,must.wf
